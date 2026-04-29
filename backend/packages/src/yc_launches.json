@@ -1,0 +1,7896 @@
+[
+  {
+    "name": "70MillionJobs",
+    "batch": "S17",
+    "one_liner": "Job board for people with criminal records",
+    "hn_url": "https://news.ycombinator.com/item?id=14911467",
+    "hn_points": 1879,
+    "hn_comments": 506,
+    "launched_at": "2017-08-02T15:46:39Z",
+    "story_id": 14911467,
+    "founder_names": [
+      "RBBronson123"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Electric Air",
+    "batch": "W23",
+    "one_liner": "Heat pump sold directly to homeowners",
+    "hn_url": "https://news.ycombinator.com/item?id=35138319",
+    "hn_points": 927,
+    "hn_comments": 789,
+    "launched_at": "2023-03-13T16:45:07Z",
+    "story_id": 35138319,
+    "founder_names": [
+      "cmui"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Prometheus",
+    "batch": "W19",
+    "one_liner": "Remove CO2 from Air and Turn It into Gasoline",
+    "hn_url": "https://news.ycombinator.com/item?id=19842240",
+    "hn_points": 1250,
+    "hn_comments": 565,
+    "launched_at": "2019-05-06T18:21:58Z",
+    "story_id": 19842240,
+    "founder_names": [
+      "rmcginnis"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Airhart Aeronautics",
+    "batch": "S22",
+    "one_liner": "A modern personal airplane",
+    "hn_url": "https://news.ycombinator.com/item?id=41163382",
+    "hn_points": 738,
+    "hn_comments": 615,
+    "launched_at": "2024-08-05T17:26:43Z",
+    "story_id": 41163382,
+    "founder_names": [
+      "n_ermosh"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "BlackOakTV",
+    "batch": "S21",
+    "one_liner": "Netflix for black people",
+    "hn_url": "https://news.ycombinator.com/item?id=28087309",
+    "hn_points": 377,
+    "hn_comments": 741,
+    "launched_at": "2021-08-06T14:05:43Z",
+    "story_id": 28087309,
+    "founder_names": [
+      "Uzo0312"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Promise",
+    "batch": "W18",
+    "one_liner": "Cost-effective, more humane alternative to jail",
+    "hn_url": "https://news.ycombinator.com/item?id=16630971",
+    "hn_points": 912,
+    "hn_comments": 410,
+    "launched_at": "2018-03-20T18:03:20Z",
+    "story_id": 16630971,
+    "founder_names": [
+      "dfrappier"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Play.ht",
+    "batch": "W23",
+    "one_liner": "Generate and clone voices from 20 seconds of audio",
+    "hn_url": "https://news.ycombinator.com/item?id=35328698",
+    "hn_points": 459,
+    "hn_comments": 458,
+    "launched_at": "2023-03-27T16:27:20Z",
+    "story_id": 35328698,
+    "founder_names": [
+      "hammadh"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Fig",
+    "batch": "S20",
+    "one_liner": "Autocomplete for the Terminal",
+    "hn_url": "https://news.ycombinator.com/item?id=27277819",
+    "hn_points": 559,
+    "hn_comments": 377,
+    "launched_at": "2021-05-25T15:09:02Z",
+    "story_id": 27277819,
+    "founder_names": [
+      "mschrage"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Double",
+    "batch": "W24",
+    "one_liner": "Index Investing with 0% Expense Ratios",
+    "hn_url": "https://news.ycombinator.com/item?id=42377018",
+    "hn_points": 443,
+    "hn_comments": 413,
+    "launched_at": "2024-12-10T14:16:54Z",
+    "story_id": 42377018,
+    "founder_names": [
+      "jjmaxwell4"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "The Buttermilk  Company",
+    "batch": "S18",
+    "one_liner": "Homemade Indian Food in 5 Minutes",
+    "hn_url": "https://news.ycombinator.com/item?id=17767789",
+    "hn_points": 377,
+    "hn_comments": 441,
+    "launched_at": "2018-08-15T17:15:42Z",
+    "story_id": 17767789,
+    "founder_names": [
+      "mitraraman"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Regatta Storage",
+    "batch": "F24",
+    "one_liner": "Turn S3 into a local-like, POSIX cloud FS",
+    "hn_url": "https://news.ycombinator.com/item?id=42174204",
+    "hn_points": 587,
+    "hn_comments": 320,
+    "launched_at": "2024-11-18T16:49:09Z",
+    "story_id": 42174204,
+    "founder_names": [
+      "huntaub"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Aqua Voice",
+    "batch": "W24",
+    "one_liner": "Voice-driven text editor",
+    "hn_url": "https://news.ycombinator.com/item?id=39828686",
+    "hn_points": 716,
+    "hn_comments": 244,
+    "launched_at": "2024-03-26T14:53:52Z",
+    "story_id": 39828686,
+    "founder_names": [
+      "the_king"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Pynecone",
+    "batch": "W23",
+    "one_liner": "Web Apps in Pure Python",
+    "hn_url": "https://news.ycombinator.com/item?id=35136827",
+    "hn_points": 550,
+    "hn_comments": 315,
+    "launched_at": "2023-03-13T15:14:02Z",
+    "story_id": 35136827,
+    "founder_names": [
+      "picklelo"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Fly.io",
+    "batch": "W20",
+    "one_liner": "Deploy app servers close to your users",
+    "hn_url": "https://news.ycombinator.com/item?id=22616857",
+    "hn_points": 626,
+    "hn_comments": 261,
+    "launched_at": "2020-03-18T14:15:07Z",
+    "story_id": 22616857,
+    "founder_names": [
+      "mrkurt"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Diversion",
+    "batch": "S22",
+    "one_liner": "Cloud-Native Git Alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=39088551",
+    "hn_points": 280,
+    "hn_comments": 423,
+    "launched_at": "2024-01-22T12:01:10Z",
+    "story_id": 39088551,
+    "founder_names": [
+      "sasham"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "OutSail",
+    "batch": "W23",
+    "one_liner": "Wingsails to reduce cargo ship fuel consumption",
+    "hn_url": "https://news.ycombinator.com/item?id=35426482",
+    "hn_points": 527,
+    "hn_comments": 269,
+    "launched_at": "2023-04-03T16:18:48Z",
+    "story_id": 35426482,
+    "founder_names": [
+      "jmoorebeek"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Heimdal",
+    "batch": "S21",
+    "one_liner": "Carbon neutral cement",
+    "hn_url": "https://news.ycombinator.com/item?id=28036927",
+    "hn_points": 617,
+    "hn_comments": 220,
+    "launched_at": "2021-08-02T14:26:09Z",
+    "story_id": 28036927,
+    "founder_names": [
+      "marcuslima"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sudden Coffee",
+    "batch": "W17",
+    "one_liner": "Instant coffee that doesn't suck",
+    "hn_url": "https://news.ycombinator.com/item?id=13934624",
+    "hn_points": 301,
+    "hn_comments": 376,
+    "launched_at": "2017-03-22T20:33:58Z",
+    "story_id": 13934624,
+    "founder_names": [
+      "freese"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Twenty.com",
+    "batch": "S23",
+    "one_liner": "Open-source CRM",
+    "hn_url": "https://news.ycombinator.com/item?id=36791434",
+    "hn_points": 415,
+    "hn_comments": 311,
+    "launched_at": "2023-07-19T18:54:50Z",
+    "story_id": 36791434,
+    "founder_names": [
+      "iFelix"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SannTek",
+    "batch": "S19",
+    "one_liner": "Breathalyzer for Cannabis",
+    "hn_url": "https://news.ycombinator.com/item?id=20717240",
+    "hn_points": 224,
+    "hn_comments": 394,
+    "launched_at": "2019-08-16T17:15:42Z",
+    "story_id": 20717240,
+    "founder_names": [
+      "Noah_SannTek"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Resend",
+    "batch": "W23",
+    "one_liner": "Email API for developers using React",
+    "hn_url": "https://news.ycombinator.com/item?id=36309120",
+    "hn_points": 432,
+    "hn_comments": 270,
+    "launched_at": "2023-06-13T12:16:25Z",
+    "story_id": 36309120,
+    "founder_names": [
+      "zenorocha"
+    ],
+    "tags": [
+      "AI",
+      "API",
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lambda School",
+    "batch": "S17",
+    "one_liner": "CS education that's free until you get a job",
+    "hn_url": "https://news.ycombinator.com/item?id=15011033",
+    "hn_points": 436,
+    "hn_comments": 266,
+    "launched_at": "2017-08-14T18:17:15Z",
+    "story_id": 15011033,
+    "founder_names": [
+      "austenallred"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Living Carbon",
+    "batch": "W20",
+    "one_liner": "Trees that capture and store more carbon",
+    "hn_url": "https://news.ycombinator.com/item?id=30672841",
+    "hn_points": 424,
+    "hn_comments": 256,
+    "launched_at": "2022-03-14T14:28:58Z",
+    "story_id": 30672841,
+    "founder_names": [
+      "maddiehalla"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Issen",
+    "batch": "F24",
+    "one_liner": "Personal AI language tutor",
+    "hn_url": "https://news.ycombinator.com/item?id=44387828",
+    "hn_points": 313,
+    "hn_comments": 272,
+    "launched_at": "2025-06-26T14:32:28Z",
+    "story_id": 44387828,
+    "founder_names": [
+      "mariano54"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Art in Res",
+    "batch": "W20",
+    "one_liner": "Buy art directly from artists",
+    "hn_url": "https://news.ycombinator.com/item?id=22824618",
+    "hn_points": 410,
+    "hn_comments": 220,
+    "launched_at": "2020-04-09T16:58:57Z",
+    "story_id": 22824618,
+    "founder_names": [
+      "JohnFriel"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Yotta Savings",
+    "batch": "S20",
+    "one_liner": "Behavioral psychology to help people save",
+    "hn_url": "https://news.ycombinator.com/item?id=23780062",
+    "hn_points": 240,
+    "hn_comments": 305,
+    "launched_at": "2020-07-09T13:42:30Z",
+    "story_id": 23780062,
+    "founder_names": [
+      "adammoelis"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Inflow",
+    "batch": "S21",
+    "one_liner": "Self-help app for people with ADHD",
+    "hn_url": "https://news.ycombinator.com/item?id=28877003",
+    "hn_points": 183,
+    "hn_comments": 324,
+    "launched_at": "2021-10-15T12:28:58Z",
+    "story_id": 28877003,
+    "founder_names": [
+      "sebisaacsinflow"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Neptyne",
+    "batch": "W23",
+    "one_liner": "A programmable spreadsheet that runs Python",
+    "hn_url": "https://news.ycombinator.com/item?id=34818706",
+    "hn_points": 399,
+    "hn_comments": 211,
+    "launched_at": "2023-02-16T14:02:37Z",
+    "story_id": 34818706,
+    "founder_names": [
+      "dosinga"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "CodeCrafters",
+    "batch": "S22",
+    "one_liner": "Practice writing complex software",
+    "hn_url": "https://news.ycombinator.com/item?id=32342334",
+    "hn_points": 403,
+    "hn_comments": 206,
+    "launched_at": "2022-08-04T13:05:32Z",
+    "story_id": 32342334,
+    "founder_names": [
+      "rohitpaulk"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SigmaOS",
+    "batch": "S21",
+    "one_liner": "A MacOS web browser designed for faster work",
+    "hn_url": "https://news.ycombinator.com/item?id=28197537",
+    "hn_points": 161,
+    "hn_comments": 325,
+    "launched_at": "2021-08-16T13:03:51Z",
+    "story_id": 28197537,
+    "founder_names": [
+      "MahyadGhassemi"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Fella",
+    "batch": "W20",
+    "one_liner": "Tackling men's obesity using medication and coaching",
+    "hn_url": "https://news.ycombinator.com/item?id=28257352",
+    "hn_points": 190,
+    "hn_comments": 309,
+    "launched_at": "2021-08-21T14:36:36Z",
+    "story_id": 28257352,
+    "founder_names": [
+      "rich-cartwright"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Radical",
+    "batch": "W23",
+    "one_liner": "Autonomous high-altitude solar aircraft",
+    "hn_url": "https://news.ycombinator.com/item?id=37901120",
+    "hn_points": 402,
+    "hn_comments": 201,
+    "launched_at": "2023-10-16T15:23:57Z",
+    "story_id": 37901120,
+    "founder_names": [
+      "jthomaslm"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Micro Meat",
+    "batch": "S21",
+    "one_liner": "Technology for scaling cultivated meat",
+    "hn_url": "https://news.ycombinator.com/item?id=30627418",
+    "hn_points": 390,
+    "hn_comments": 194,
+    "launched_at": "2022-03-10T14:40:48Z",
+    "story_id": 30627418,
+    "founder_names": [
+      "asmertgen"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tweeks",
+    "batch": "W25",
+    "one_liner": "Browser extension to deshittify the web",
+    "hn_url": "https://news.ycombinator.com/item?id=45916525",
+    "hn_points": 351,
+    "hn_comments": 213,
+    "launched_at": "2025-11-13T16:03:04Z",
+    "story_id": 45916525,
+    "founder_names": [
+      "jmadeano"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Common Paper",
+    "batch": "W23",
+    "one_liner": "SAFEs for Commercial Contracts",
+    "hn_url": "https://news.ycombinator.com/item?id=36043944",
+    "hn_points": 431,
+    "hn_comments": 167,
+    "launched_at": "2023-05-23T13:28:53Z",
+    "story_id": 36043944,
+    "founder_names": [
+      "jakestein"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Codebuff",
+    "batch": "F24",
+    "one_liner": "CLI tool that writes code for you",
+    "hn_url": "https://news.ycombinator.com/item?id=42078536",
+    "hn_points": 285,
+    "hn_comments": 239,
+    "launched_at": "2024-11-07T17:06:28Z",
+    "story_id": 42078536,
+    "founder_names": [
+      "jahooma"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Modern Realty",
+    "batch": "S24",
+    "one_liner": "AI Real Estate Agent for Home Buyers",
+    "hn_url": "https://news.ycombinator.com/item?id=41638199",
+    "hn_points": 153,
+    "hn_comments": 305,
+    "launched_at": "2024-09-24T16:23:35Z",
+    "story_id": 41638199,
+    "founder_names": [
+      "greenfish6"
+    ],
+    "tags": [
+      "AI",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Modern Labor",
+    "batch": "W19",
+    "one_liner": "Paying People to Learn to Code",
+    "hn_url": "https://news.ycombinator.com/item?id=19227441",
+    "hn_points": 229,
+    "hn_comments": 261,
+    "launched_at": "2019-02-22T17:59:36Z",
+    "story_id": 19227441,
+    "founder_names": [
+      "asd33313131"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Human Layer",
+    "batch": "F24",
+    "one_liner": "Human-in-the-Loop API for AI Systems",
+    "hn_url": "https://news.ycombinator.com/item?id=42247368",
+    "hn_points": 354,
+    "hn_comments": 196,
+    "launched_at": "2024-11-26T16:57:12Z",
+    "story_id": 42247368,
+    "founder_names": [
+      "dhorthy"
+    ],
+    "tags": [
+      "AI",
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Maritime Fusion",
+    "batch": "W25",
+    "one_liner": "Fusion Reactors for Ships",
+    "hn_url": "https://news.ycombinator.com/item?id=43185246",
+    "hn_points": 216,
+    "hn_comments": 261,
+    "launched_at": "2025-02-26T16:32:46Z",
+    "story_id": 43185246,
+    "founder_names": [
+      "jtcohen"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lago",
+    "batch": "S21",
+    "one_liner": "Open-source usage-based billing",
+    "hn_url": "https://news.ycombinator.com/item?id=34773442",
+    "hn_points": 442,
+    "hn_comments": 141,
+    "launched_at": "2023-02-13T14:01:29Z",
+    "story_id": 34773442,
+    "founder_names": [
+      "Rafsark"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Noya",
+    "batch": "W21",
+    "one_liner": "Direct air capture of CO2 using cooling towers",
+    "hn_url": "https://news.ycombinator.com/item?id=26144432",
+    "hn_points": 401,
+    "hn_comments": 157,
+    "launched_at": "2021-02-15T16:53:24Z",
+    "story_id": 26144432,
+    "founder_names": [
+      "jsantos511"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Enombic",
+    "batch": "S20",
+    "one_liner": "Create your own stock indexes",
+    "hn_url": "https://news.ycombinator.com/item?id=26265872",
+    "hn_points": 305,
+    "hn_comments": 205,
+    "launched_at": "2021-02-25T18:01:37Z",
+    "story_id": 26265872,
+    "founder_names": [
+      "_eb13"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Andi",
+    "batch": "W22",
+    "one_liner": "Q&A based, ad-free, anti-spam search engine",
+    "hn_url": "https://news.ycombinator.com/item?id=30832589",
+    "hn_points": 352,
+    "hn_comments": 181,
+    "launched_at": "2022-03-28T16:52:50Z",
+    "story_id": 30832589,
+    "founder_names": [
+      "jedwhite"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Aviron",
+    "batch": "W21",
+    "one_liner": "High-Intensity Peloton for Rowing",
+    "hn_url": "https://news.ycombinator.com/item?id=25905467",
+    "hn_points": 184,
+    "hn_comments": 263,
+    "launched_at": "2021-01-25T16:53:41Z",
+    "story_id": 25905467,
+    "founder_names": [
+      "FullNameAndy"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sorcerer",
+    "batch": "S24",
+    "one_liner": "Weather balloons that collect more data",
+    "hn_url": "https://news.ycombinator.com/item?id=41291219",
+    "hn_points": 365,
+    "hn_comments": 172,
+    "launched_at": "2024-08-19T14:13:36Z",
+    "story_id": 41291219,
+    "founder_names": [
+      "tndl"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Got-it",
+    "batch": "W19",
+    "one_liner": "Bluetooth labels for tracking things at work",
+    "hn_url": "https://news.ycombinator.com/item?id=21805248",
+    "hn_points": 411,
+    "hn_comments": 143,
+    "launched_at": "2019-12-16T17:59:45Z",
+    "story_id": 21805248,
+    "founder_names": [
+      "brian_krejcarek"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Retell AI",
+    "batch": "W24",
+    "one_liner": "Conversational Speech API for Your LLM",
+    "hn_url": "https://news.ycombinator.com/item?id=39453402",
+    "hn_points": 350,
+    "hn_comments": 173,
+    "launched_at": "2024-02-21T13:18:13Z",
+    "story_id": 39453402,
+    "founder_names": [
+      "yanyan_evie"
+    ],
+    "tags": [
+      "LLM",
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Remora",
+    "batch": "W21",
+    "one_liner": "Carbon capture for semi trucks",
+    "hn_url": "https://news.ycombinator.com/item?id=26412624",
+    "hn_points": 304,
+    "hn_comments": 196,
+    "launched_at": "2021-03-10T16:02:27Z",
+    "story_id": 26412624,
+    "founder_names": [
+      "paulgross"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "QuestDB",
+    "batch": "S20",
+    "one_liner": "Fast open source time series database",
+    "hn_url": "https://news.ycombinator.com/item?id=23975807",
+    "hn_points": 357,
+    "hn_comments": 167,
+    "launched_at": "2020-07-28T13:57:12Z",
+    "story_id": 23975807,
+    "founder_names": [
+      "bluestreak"
+    ],
+    "tags": [
+      "open source",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Exa",
+    "batch": "S21",
+    "one_liner": "The web as a database",
+    "hn_url": "https://news.ycombinator.com/item?id=43906841",
+    "hn_points": 412,
+    "hn_comments": 133,
+    "launched_at": "2025-05-06T16:18:42Z",
+    "story_id": 43906841,
+    "founder_names": [
+      "willbryk"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Haystack",
+    "batch": "S24",
+    "one_liner": "Visualize and edit code on an infinite canvas",
+    "hn_url": "https://news.ycombinator.com/item?id=41648564",
+    "hn_points": 328,
+    "hn_comments": 173,
+    "launched_at": "2024-09-25T15:31:00Z",
+    "story_id": 41648564,
+    "founder_names": [
+      "akshaysg"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hello",
+    "batch": "S22",
+    "one_liner": "A search engine for developers",
+    "hn_url": "https://news.ycombinator.com/item?id=32003215",
+    "hn_points": 273,
+    "hn_comments": 199,
+    "launched_at": "2022-07-06T16:24:30Z",
+    "story_id": 32003215,
+    "founder_names": [
+      "wayy"
+    ],
+    "tags": [
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Onedoc",
+    "batch": "W24",
+    "one_liner": "A better way to create PDFs",
+    "hn_url": "https://news.ycombinator.com/item?id=39668962",
+    "hn_points": 293,
+    "hn_comments": 185,
+    "launched_at": "2024-03-11T14:52:56Z",
+    "story_id": 39668962,
+    "founder_names": [
+      "AugusteLef"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Second",
+    "batch": "W23",
+    "one_liner": "AI bots that add features to web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=35083093",
+    "hn_points": 260,
+    "hn_comments": 199,
+    "launched_at": "2023-03-09T16:30:45Z",
+    "story_id": 35083093,
+    "founder_names": [
+      "immortalloom"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SheerlyGenius",
+    "batch": "W18",
+    "one_liner": "Indestructible Tights from Bulletproof Fiber",
+    "hn_url": "https://news.ycombinator.com/item?id=16377751",
+    "hn_points": 321,
+    "hn_comments": 168,
+    "launched_at": "2018-02-14T17:59:34Z",
+    "story_id": 16377751,
+    "founder_names": [
+      "kathomuth"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Type",
+    "batch": "W23",
+    "one_liner": "AI-powered document editor",
+    "hn_url": "https://news.ycombinator.com/item?id=35442103",
+    "hn_points": 194,
+    "hn_comments": 230,
+    "launched_at": "2023-04-04T16:23:52Z",
+    "story_id": 35442103,
+    "founder_names": [
+      "stewfortier"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Spinach.io",
+    "batch": "W22",
+    "one_liner": "Better daily standups",
+    "hn_url": "https://news.ycombinator.com/item?id=32911232",
+    "hn_points": 290,
+    "hn_comments": 181,
+    "launched_at": "2022-09-20T13:16:23Z",
+    "story_id": 32911232,
+    "founder_names": [
+      "talmi"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hotswap",
+    "batch": "S21",
+    "one_liner": "Easily migrate customers away from competitors",
+    "hn_url": "https://news.ycombinator.com/item?id=28327660",
+    "hn_points": 345,
+    "hn_comments": 152,
+    "launched_at": "2021-08-27T13:39:29Z",
+    "story_id": 28327660,
+    "founder_names": [
+      "memset"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Buoyant",
+    "batch": "S21",
+    "one_liner": "Blimp drones for air freight",
+    "hn_url": "https://news.ycombinator.com/item?id=28278515",
+    "hn_points": 302,
+    "hn_comments": 173,
+    "launched_at": "2021-08-23T16:40:24Z",
+    "story_id": 28278515,
+    "founder_names": [
+      "joefigura"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bottomless",
+    "batch": "W19",
+    "one_liner": "Coffee Restocked with a Smart Scale",
+    "hn_url": "https://news.ycombinator.com/item?id=19403664",
+    "hn_points": 135,
+    "hn_comments": 255,
+    "launched_at": "2019-03-15T20:02:13Z",
+    "story_id": 19403664,
+    "founder_names": [
+      "seizethecheese"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Athens Research",
+    "batch": "W21",
+    "one_liner": "Open-Source Roam Research",
+    "hn_url": "https://news.ycombinator.com/item?id=26316793",
+    "hn_points": 340,
+    "hn_comments": 152,
+    "launched_at": "2021-03-02T16:11:20Z",
+    "story_id": 26316793,
+    "founder_names": [
+      "tangjeff0"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Shimmer",
+    "batch": "S21",
+    "one_liner": "ADHD coaching for adults",
+    "hn_url": "https://news.ycombinator.com/item?id=33468611",
+    "hn_points": 127,
+    "hn_comments": 254,
+    "launched_at": "2022-11-04T15:46:38Z",
+    "story_id": 33468611,
+    "founder_names": [
+      "christalwang"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Gather.Town",
+    "batch": "S19",
+    "one_liner": "Spatial video chat for remote teams",
+    "hn_url": "https://news.ycombinator.com/item?id=25039370",
+    "hn_points": 311,
+    "hn_comments": 161,
+    "launched_at": "2020-11-09T20:17:45Z",
+    "story_id": 25039370,
+    "founder_names": [
+      "eambutu"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hyprnote",
+    "batch": "S25",
+    "one_liner": "An open-source AI meeting notetaker",
+    "hn_url": "https://news.ycombinator.com/item?id=44725306",
+    "hn_points": 270,
+    "hn_comments": 180,
+    "launched_at": "2025-07-29T16:24:08Z",
+    "story_id": 44725306,
+    "founder_names": [
+      "yujonglee"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sidekick",
+    "batch": "S20",
+    "one_liner": "A hardware device to connect remote teams",
+    "hn_url": "https://news.ycombinator.com/item?id=23928666",
+    "hn_points": 170,
+    "hn_comments": 226,
+    "launched_at": "2020-07-23T15:54:26Z",
+    "story_id": 23928666,
+    "founder_names": [
+      "achen187"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Silurian",
+    "batch": "S24",
+    "one_liner": "Simulate the Earth",
+    "hn_url": "https://news.ycombinator.com/item?id=41556519",
+    "hn_points": 338,
+    "hn_comments": 141,
+    "launched_at": "2024-09-16T14:32:38Z",
+    "story_id": 41556519,
+    "founder_names": [
+      "rejuvyesh"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "GitStart",
+    "batch": "S19",
+    "one_liner": "Remote junior devs working on production PRs",
+    "hn_url": "https://news.ycombinator.com/item?id=37033753",
+    "hn_points": 235,
+    "hn_comments": 192,
+    "launched_at": "2023-08-07T12:54:18Z",
+    "story_id": 37033753,
+    "founder_names": [
+      "hzia"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Chatwoot",
+    "batch": "W21",
+    "one_liner": "Open-Source Alternative to Intercom, Zendesk",
+    "hn_url": "https://news.ycombinator.com/item?id=26501527",
+    "hn_points": 396,
+    "hn_comments": 110,
+    "launched_at": "2021-03-18T11:21:31Z",
+    "story_id": 26501527,
+    "founder_names": [
+      "pranav_rajs"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Slip",
+    "batch": "S21",
+    "one_liner": "Build and sell interactive programming courses",
+    "hn_url": "https://news.ycombinator.com/item?id=28141462",
+    "hn_points": 399,
+    "hn_comments": 108,
+    "launched_at": "2021-08-11T12:59:30Z",
+    "story_id": 28141462,
+    "founder_names": [
+      "CoffeePython"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Kitemaker",
+    "batch": "W21",
+    "one_liner": "Fast alternative to Jira, built for remote teams",
+    "hn_url": "https://news.ycombinator.com/item?id=26540692",
+    "hn_points": 266,
+    "hn_comments": 173,
+    "launched_at": "2021-03-22T13:45:14Z",
+    "story_id": 26540692,
+    "founder_names": [
+      "kevsim"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Vocode",
+    "batch": "W23",
+    "one_liner": "Library for voice conversation with LLMs",
+    "hn_url": "https://news.ycombinator.com/item?id=35358873",
+    "hn_points": 379,
+    "hn_comments": 116,
+    "launched_at": "2023-03-29T15:43:36Z",
+    "story_id": 35358873,
+    "founder_names": [
+      "KianHooshmand"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "HyLight",
+    "batch": "S23",
+    "one_liner": "Hydrogen airships to inspect energy infrastructure",
+    "hn_url": "https://news.ycombinator.com/item?id=37295149",
+    "hn_points": 192,
+    "hn_comments": 207,
+    "launched_at": "2023-08-28T15:00:59Z",
+    "story_id": 37295149,
+    "founder_names": [
+      "ThomasLaporte"
+    ],
+    "tags": [
+      "AI",
+      "infrastructure"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Senpai.gg",
+    "batch": "S21",
+    "one_liner": "Personal gaming coach for PC gamers",
+    "hn_url": "https://news.ycombinator.com/item?id=28145998",
+    "hn_points": 182,
+    "hn_comments": 207,
+    "launched_at": "2021-08-11T18:44:57Z",
+    "story_id": 28145998,
+    "founder_names": [
+      "berkozer"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "StartPlaying.Games",
+    "batch": "W20",
+    "one_liner": "Tabletop RPGs run by pro game masters",
+    "hn_url": "https://news.ycombinator.com/item?id=24827162",
+    "hn_points": 310,
+    "hn_comments": 141,
+    "launched_at": "2020-10-19T15:22:55Z",
+    "story_id": 24827162,
+    "founder_names": [
+      "kntucker"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Homestead",
+    "batch": "W20",
+    "one_liner": "Lot-splitting to build new housing supply",
+    "hn_url": "https://news.ycombinator.com/item?id=29844098",
+    "hn_points": 166,
+    "hn_comments": 213,
+    "launched_at": "2022-01-07T20:11:52Z",
+    "story_id": 29844098,
+    "founder_names": [
+      "seanmp"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Pagedraw",
+    "batch": "W18",
+    "one_liner": "Compile UI Mockups to React Code",
+    "hn_url": "https://news.ycombinator.com/item?id=16467387",
+    "hn_points": 344,
+    "hn_comments": 122,
+    "launched_at": "2018-02-26T18:02:02Z",
+    "story_id": 16467387,
+    "founder_names": [
+      "jpochtar"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Morph",
+    "batch": "S23",
+    "one_liner": "Apply AI code edits at 4,500 tokens/sec",
+    "hn_url": "https://news.ycombinator.com/item?id=44490863",
+    "hn_points": 217,
+    "hn_comments": 185,
+    "launched_at": "2025-07-07T14:40:45Z",
+    "story_id": 44490863,
+    "founder_names": [
+      "bhaktatejas922"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Greptile",
+    "batch": "W24",
+    "one_liner": "RAG on codebases that actually works",
+    "hn_url": "https://news.ycombinator.com/item?id=39604961",
+    "hn_points": 253,
+    "hn_comments": 166,
+    "launched_at": "2024-03-05T15:48:56Z",
+    "story_id": 39604961,
+    "founder_names": [
+      "dakshgupta"
+    ],
+    "tags": [
+      "RAG"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Clearspace",
+    "batch": "W23",
+    "one_liner": "Cut back on screen time",
+    "hn_url": "https://news.ycombinator.com/item?id=35888644",
+    "hn_points": 246,
+    "hn_comments": 169,
+    "launched_at": "2023-05-10T15:19:16Z",
+    "story_id": 35888644,
+    "founder_names": [
+      "anteloper"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "AirMyne",
+    "batch": "W22",
+    "one_liner": "Capturing CO2 from air at industrial scale",
+    "hn_url": "https://news.ycombinator.com/item?id=30712229",
+    "hn_points": 198,
+    "hn_comments": 192,
+    "launched_at": "2022-03-17T15:31:55Z",
+    "story_id": 30712229,
+    "founder_names": [
+      "markcyffka"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Karsa",
+    "batch": "W25",
+    "one_liner": "Buy and save stablecoins internationally",
+    "hn_url": "https://news.ycombinator.com/item?id=42879661",
+    "hn_points": 129,
+    "hn_comments": 224,
+    "launched_at": "2025-01-30T16:59:38Z",
+    "story_id": 42879661,
+    "founder_names": [
+      "Shasnani"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Onyx",
+    "batch": "W24",
+    "one_liner": "Open-source chat UI",
+    "hn_url": "https://news.ycombinator.com/item?id=46045987",
+    "hn_points": 254,
+    "hn_comments": 160,
+    "launched_at": "2025-11-25T14:20:30Z",
+    "story_id": 46045987,
+    "founder_names": [
+      "Weves"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Atmana",
+    "batch": "S21",
+    "one_liner": "An app to help cut down on compulsive porn usage",
+    "hn_url": "https://news.ycombinator.com/item?id=27971757",
+    "hn_points": 202,
+    "hn_comments": 182,
+    "launched_at": "2021-07-27T12:47:59Z",
+    "story_id": 27971757,
+    "founder_names": [
+      "zero_billion"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "batch": "W19",
+    "one_liner": "Give your audience a way to thank you",
+    "hn_url": "https://news.ycombinator.com/item?id=21694759",
+    "hn_points": 206,
+    "hn_comments": 179,
+    "launched_at": "2019-12-03T17:59:33Z",
+    "story_id": 21694759,
+    "founder_names": [
+      "jijosunny"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Stack Auth",
+    "batch": "S24",
+    "one_liner": "An Open-Source Auth0/Clerk Alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=41194673",
+    "hn_points": 280,
+    "hn_comments": 141,
+    "launched_at": "2024-08-08T18:23:57Z",
+    "story_id": 41194673,
+    "founder_names": [
+      "n2d4"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Necto",
+    "batch": "W18",
+    "one_liner": "ISP Starter Kit",
+    "hn_url": "https://news.ycombinator.com/item?id=17067144",
+    "hn_points": 404,
+    "hn_comments": 78,
+    "launched_at": "2018-05-14T17:00:00Z",
+    "story_id": 17067144,
+    "founder_names": [
+      "montasaurus"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "H3X",
+    "batch": "W21",
+    "one_liner": "High power density electric aircraft motors",
+    "hn_url": "https://news.ycombinator.com/item?id=26224709",
+    "hn_points": 229,
+    "hn_comments": 164,
+    "launched_at": "2021-02-22T14:11:31Z",
+    "story_id": 26224709,
+    "founder_names": [
+      "jjsylvestre"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "RunAnywhere",
+    "batch": "W26",
+    "one_liner": "Faster AI Inference on Apple Silicon",
+    "hn_url": "https://news.ycombinator.com/item?id=47326101",
+    "hn_points": 240,
+    "hn_comments": 153,
+    "launched_at": "2026-03-10T17:14:52Z",
+    "story_id": 47326101,
+    "founder_names": [
+      "sanchitmonga22"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Opstrace",
+    "batch": "S19",
+    "one_liner": "open-source Datadog",
+    "hn_url": "https://news.ycombinator.com/item?id=25991485",
+    "hn_points": 316,
+    "hn_comments": 114,
+    "launched_at": "2021-02-01T18:16:18Z",
+    "story_id": 25991485,
+    "founder_names": [
+      "spahl"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Undermind",
+    "batch": "S24",
+    "one_liner": "AI agent for discovering scientific papers",
+    "hn_url": "https://news.ycombinator.com/item?id=41069909",
+    "hn_points": 292,
+    "hn_comments": 126,
+    "launched_at": "2024-07-25T15:36:57Z",
+    "story_id": 41069909,
+    "founder_names": [
+      "jramette"
+    ],
+    "tags": [
+      "AI",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "GreaseBoss",
+    "batch": "W21",
+    "one_liner": "Real-time system to manage industrial greasing",
+    "hn_url": "https://news.ycombinator.com/item?id=26240581",
+    "hn_points": 250,
+    "hn_comments": 146,
+    "launched_at": "2021-02-23T18:11:53Z",
+    "story_id": 26240581,
+    "founder_names": [
+      "SteveGreaseBoss"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Moonrepo",
+    "batch": "W23",
+    "one_liner": "Open-source build system",
+    "hn_url": "https://news.ycombinator.com/item?id=34885077",
+    "hn_points": 200,
+    "hn_comments": 171,
+    "launched_at": "2023-02-21T18:48:10Z",
+    "story_id": 34885077,
+    "founder_names": [
+      "mileswjohnson"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "CoinTracker",
+    "batch": "W18",
+    "one_liner": "Cryptocurrency portfolio and tax manager",
+    "hn_url": "https://news.ycombinator.com/item?id=16386419",
+    "hn_points": 222,
+    "hn_comments": 155,
+    "launched_at": "2018-02-15T18:43:45Z",
+    "story_id": 16386419,
+    "founder_names": [
+      "chanfest22"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Be Golden",
+    "batch": "S22",
+    "one_liner": "Measure and manage your inflammation levels",
+    "hn_url": "https://news.ycombinator.com/item?id=32650142",
+    "hn_points": 223,
+    "hn_comments": 154,
+    "launched_at": "2022-08-30T13:28:14Z",
+    "story_id": 32650142,
+    "founder_names": [
+      "Snehpatel1"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Highlight.io",
+    "batch": "W23",
+    "one_liner": "Open-source, full stack web app monitoring",
+    "hn_url": "https://news.ycombinator.com/item?id=36774611",
+    "hn_points": 261,
+    "hn_comments": 134,
+    "launched_at": "2023-07-18T16:01:08Z",
+    "story_id": 36774611,
+    "founder_names": [
+      "podoman"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "The  Lobby",
+    "batch": "W18",
+    "one_liner": "1-on-1 calls with company insiders to get hired",
+    "hn_url": "https://news.ycombinator.com/item?id=17410030",
+    "hn_points": 208,
+    "hn_comments": 160,
+    "launched_at": "2018-06-27T17:23:51Z",
+    "story_id": 17410030,
+    "founder_names": [
+      "dchhugani"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Helio Sleep",
+    "batch": "S21",
+    "one_liner": "One-stop portal for sleep apnea",
+    "hn_url": "https://news.ycombinator.com/item?id=30767471",
+    "hn_points": 158,
+    "hn_comments": 185,
+    "launched_at": "2022-03-22T15:43:21Z",
+    "story_id": 30767471,
+    "founder_names": [
+      "maxgreenfeld"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Stacker",
+    "batch": "S20",
+    "one_liner": "Create Apps from Airtable or Google Sheets",
+    "hn_url": "https://news.ycombinator.com/item?id=24037118",
+    "hn_points": 292,
+    "hn_comments": 116,
+    "launched_at": "2020-08-03T12:55:47Z",
+    "story_id": 24037118,
+    "founder_names": [
+      "skellystudios"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Solve",
+    "batch": "S17",
+    "one_liner": "We Save International Travelers Hours of Time",
+    "hn_url": "https://news.ycombinator.com/item?id=14588456",
+    "hn_points": 122,
+    "hn_comments": 201,
+    "launched_at": "2017-06-19T17:02:14Z",
+    "story_id": 14588456,
+    "founder_names": [
+      "blainevess"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Litebulb",
+    "batch": "W22",
+    "one_liner": "Automating the coding interview",
+    "hn_url": "https://news.ycombinator.com/item?id=30591874",
+    "hn_points": 139,
+    "hn_comments": 190,
+    "launched_at": "2022-03-07T19:00:34Z",
+    "story_id": 30591874,
+    "founder_names": [
+      "garyjlin"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Payload",
+    "batch": "S22",
+    "one_liner": "Headless CMS for Developers",
+    "hn_url": "https://news.ycombinator.com/item?id=32665325",
+    "hn_points": 242,
+    "hn_comments": 137,
+    "launched_at": "2022-08-31T17:14:58Z",
+    "story_id": 32665325,
+    "founder_names": [
+      "sneek_"
+    ],
+    "tags": [
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bloop",
+    "batch": "S21",
+    "one_liner": "Code Search with GPT-4",
+    "hn_url": "https://news.ycombinator.com/item?id=35236275",
+    "hn_points": 264,
+    "hn_comments": 125,
+    "launched_at": "2023-03-20T18:27:32Z",
+    "story_id": 35236275,
+    "founder_names": [
+      "louiskw"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SSOReady",
+    "batch": "W24",
+    "one_liner": "Making SAML SSO painless and open source",
+    "hn_url": "https://news.ycombinator.com/item?id=41110850",
+    "hn_points": 317,
+    "hn_comments": 98,
+    "launched_at": "2024-07-30T16:19:45Z",
+    "story_id": 41110850,
+    "founder_names": [
+      "ucarion"
+    ],
+    "tags": [
+      "AI",
+      "ML",
+      "open source"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "AgentMail",
+    "batch": "S25",
+    "one_liner": "An API that gives agents their own email inboxes",
+    "hn_url": "https://news.ycombinator.com/item?id=46812608",
+    "hn_points": 169,
+    "hn_comments": 169,
+    "launched_at": "2026-01-29T16:42:33Z",
+    "story_id": 46812608,
+    "founder_names": [
+      "Haakam21"
+    ],
+    "tags": [
+      "AI",
+      "API",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Optery",
+    "batch": "W22",
+    "one_liner": "Remove your personal info from the internet",
+    "hn_url": "https://news.ycombinator.com/item?id=30605010",
+    "hn_points": 223,
+    "hn_comments": 140,
+    "launched_at": "2022-03-08T19:22:18Z",
+    "story_id": 30605010,
+    "founder_names": [
+      "beyondd"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Govly",
+    "batch": "S21",
+    "one_liner": "Making it easier to sell to the U.S. government",
+    "hn_url": "https://news.ycombinator.com/item?id=28224792",
+    "hn_points": 274,
+    "hn_comments": 112,
+    "launched_at": "2021-08-18T17:56:08Z",
+    "story_id": 28224792,
+    "founder_names": [
+      "mikeweiland"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Rosebud",
+    "batch": "S19",
+    "one_liner": "Turn game descriptions into browser games",
+    "hn_url": "https://news.ycombinator.com/item?id=38868185",
+    "hn_points": 293,
+    "hn_comments": 101,
+    "launched_at": "2024-01-04T15:33:50Z",
+    "story_id": 38868185,
+    "founder_names": [
+      "lishali88"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Termius",
+    "batch": "W19",
+    "one_liner": "SSH client that works on desktop and mobile",
+    "hn_url": "https://news.ycombinator.com/item?id=20118727",
+    "hn_points": 220,
+    "hn_comments": 137,
+    "launched_at": "2019-06-06T20:23:35Z",
+    "story_id": 20118727,
+    "founder_names": [
+      "rkudiyarov"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Azuki",
+    "batch": "W22",
+    "one_liner": "All-you-can-read manga subscription",
+    "hn_url": "https://news.ycombinator.com/item?id=30804169",
+    "hn_points": 198,
+    "hn_comments": 147,
+    "launched_at": "2022-03-25T16:31:46Z",
+    "story_id": 30804169,
+    "founder_names": [
+      "BasouKazuma"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Doppler",
+    "batch": "W19",
+    "one_liner": "Easily manage your env vars and secrets",
+    "hn_url": "https://news.ycombinator.com/item?id=24719722",
+    "hn_points": 222,
+    "hn_comments": 134,
+    "launched_at": "2020-10-08T15:03:28Z",
+    "story_id": 24719722,
+    "founder_names": [
+      "bvallelunga"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Fastgen",
+    "batch": "W23",
+    "one_liner": "Visual Low-Code Backend Builder",
+    "hn_url": "https://news.ycombinator.com/item?id=36225520",
+    "hn_points": 265,
+    "hn_comments": 112,
+    "launched_at": "2023-06-07T11:30:53Z",
+    "story_id": 36225520,
+    "founder_names": [
+      "cschreiber"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Danswer",
+    "batch": "W24",
+    "one_liner": "Open-source AI search and chat over private data",
+    "hn_url": "https://news.ycombinator.com/item?id=39467413",
+    "hn_points": 231,
+    "hn_comments": 129,
+    "launched_at": "2024-02-22T14:20:15Z",
+    "story_id": 39467413,
+    "founder_names": [
+      "yuhongsun"
+    ],
+    "tags": [
+      "AI",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "RescueTime",
+    "batch": "W08",
+    "one_liner": "Redesigned for wellness, balance, remote work",
+    "hn_url": "https://news.ycombinator.com/item?id=28683597",
+    "hn_points": 207,
+    "hn_comments": 141,
+    "launched_at": "2021-09-28T15:01:19Z",
+    "story_id": 28683597,
+    "founder_names": [
+      "bfioca"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Jitsu",
+    "batch": "S20",
+    "one_liner": "Open-Source Segment Alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=29106082",
+    "hn_points": 265,
+    "hn_comments": 110,
+    "launched_at": "2021-11-04T12:07:32Z",
+    "story_id": 29106082,
+    "founder_names": [
+      "vklmn"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Wyndly",
+    "batch": "W21",
+    "one_liner": "Allergy relief through at-home oral drops",
+    "hn_url": "https://news.ycombinator.com/item?id=26227807",
+    "hn_points": 207,
+    "hn_comments": 139,
+    "launched_at": "2021-02-22T18:00:44Z",
+    "story_id": 26227807,
+    "founder_names": [
+      "ahstilde"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "GitDuck",
+    "batch": "S20",
+    "one_liner": "Zoom for developers with real-time code sharing",
+    "hn_url": "https://news.ycombinator.com/item?id=24228826",
+    "hn_points": 264,
+    "hn_comments": 110,
+    "launched_at": "2020-08-20T20:54:46Z",
+    "story_id": 24228826,
+    "founder_names": [
+      "borisandcrispin"
+    ],
+    "tags": [
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hydra",
+    "batch": "W22",
+    "one_liner": "Query any database via Postgres",
+    "hn_url": "https://news.ycombinator.com/item?id=30442718",
+    "hn_points": 326,
+    "hn_comments": 77,
+    "launched_at": "2022-02-23T16:18:51Z",
+    "story_id": 30442718,
+    "founder_names": [
+      "coatue"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Kalshi",
+    "batch": "W19",
+    "one_liner": "A regulated exchange for trading on events",
+    "hn_url": "https://news.ycombinator.com/item?id=33696486",
+    "hn_points": 148,
+    "hn_comments": 165,
+    "launched_at": "2022-11-21T19:07:35Z",
+    "story_id": 33696486,
+    "founder_names": [
+      "tmansour"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Artifact",
+    "batch": "S20",
+    "one_liner": "Personal podcasts with the people in your life",
+    "hn_url": "https://news.ycombinator.com/item?id=24919931",
+    "hn_points": 266,
+    "hn_comments": 105,
+    "launched_at": "2020-10-28T15:32:47Z",
+    "story_id": 24919931,
+    "founder_names": [
+      "ross_chanin"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Certainly Health",
+    "batch": "S23",
+    "one_liner": "Book doctors without surprise bills",
+    "hn_url": "https://news.ycombinator.com/item?id=36970135",
+    "hn_points": 186,
+    "hn_comments": 145,
+    "launched_at": "2023-08-02T12:45:59Z",
+    "story_id": 36970135,
+    "founder_names": [
+      "blastbking"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Skyvern",
+    "batch": "S23",
+    "one_liner": "open-source AI agent for browser automations",
+    "hn_url": "https://news.ycombinator.com/item?id=41936745",
+    "hn_points": 327,
+    "hn_comments": 74,
+    "launched_at": "2024-10-24T15:51:21Z",
+    "story_id": 41936745,
+    "founder_names": [
+      "suchintan"
+    ],
+    "tags": [
+      "AI",
+      "automation",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Muddy",
+    "batch": "S19",
+    "one_liner": "Multiplayer browser for getting work done",
+    "hn_url": "https://news.ycombinator.com/item?id=40309342",
+    "hn_points": 252,
+    "hn_comments": 111,
+    "launched_at": "2024-05-09T15:38:48Z",
+    "story_id": 40309342,
+    "founder_names": [
+      "lele0108"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Infisical",
+    "batch": "W23",
+    "one_liner": "Open-source secrets manager for developers",
+    "hn_url": "https://news.ycombinator.com/item?id=34955699",
+    "hn_points": 231,
+    "hn_comments": 121,
+    "launched_at": "2023-02-27T12:39:29Z",
+    "story_id": 34955699,
+    "founder_names": [
+      "vmatsiiako"
+    ],
+    "tags": [
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Savvy",
+    "batch": "W20",
+    "one_liner": "Give employees tax-free cash for health insurance",
+    "hn_url": "https://news.ycombinator.com/item?id=22527102",
+    "hn_points": 186,
+    "hn_comments": 143,
+    "launched_at": "2020-03-09T17:07:24Z",
+    "story_id": 22527102,
+    "founder_names": [
+      "kevc"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dex",
+    "batch": "S19",
+    "one_liner": "personal CRM that reminds you to keep in touch",
+    "hn_url": "https://news.ycombinator.com/item?id=20699923",
+    "hn_points": 189,
+    "hn_comments": 141,
+    "launched_at": "2019-08-14T21:02:28Z",
+    "story_id": 20699923,
+    "founder_names": [
+      "ksun"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Omnara",
+    "batch": "S25",
+    "one_liner": "Run Claude Code and Codex from anywhere",
+    "hn_url": "https://news.ycombinator.com/item?id=46991591",
+    "hn_points": 147,
+    "hn_comments": 161,
+    "launched_at": "2026-02-12T17:14:28Z",
+    "story_id": 46991591,
+    "founder_names": [
+      "kmansm27"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "OneChronos",
+    "batch": "S16",
+    "one_liner": "Combinatorial auctions market for US equities",
+    "hn_url": "https://news.ycombinator.com/item?id=30247159",
+    "hn_points": 231,
+    "hn_comments": 118,
+    "launched_at": "2022-02-07T16:36:09Z",
+    "story_id": 30247159,
+    "founder_names": [
+      "lpage"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Reflect",
+    "batch": "S20",
+    "one_liner": "No-code test automation for web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=23897626",
+    "hn_points": 262,
+    "hn_comments": 102,
+    "launched_at": "2020-07-20T13:33:42Z",
+    "story_id": 23897626,
+    "founder_names": [
+      "tmcneal"
+    ],
+    "tags": [
+      "automation"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Trellis",
+    "batch": "W24",
+    "one_liner": "AI-powered workflows for unstructured data",
+    "hn_url": "https://news.ycombinator.com/item?id=41236273",
+    "hn_points": 234,
+    "hn_comments": 116,
+    "launched_at": "2024-08-13T15:14:47Z",
+    "story_id": 41236273,
+    "founder_names": [
+      "macklinkachorn"
+    ],
+    "tags": [
+      "AI",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hexel",
+    "batch": "W18",
+    "one_liner": "Create a cryptocurrency for your community",
+    "hn_url": "https://news.ycombinator.com/item?id=16602069",
+    "hn_points": 191,
+    "hn_comments": 137,
+    "launched_at": "2018-03-16T17:02:55Z",
+    "story_id": 16602069,
+    "founder_names": [
+      "streulpita"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "PeerDB",
+    "batch": "S23",
+    "one_liner": "Fast, Native ETL/ELT for Postgres",
+    "hn_url": "https://news.ycombinator.com/item?id=36895220",
+    "hn_points": 261,
+    "hn_comments": 101,
+    "launched_at": "2023-07-27T15:39:08Z",
+    "story_id": 36895220,
+    "founder_names": [
+      "saisrirampur"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Motion",
+    "batch": "W20",
+    "one_liner": "defense against online distractions and addictions",
+    "hn_url": "https://news.ycombinator.com/item?id=22349329",
+    "hn_points": 210,
+    "hn_comments": 125,
+    "launched_at": "2020-02-17T18:03:35Z",
+    "story_id": 22349329,
+    "founder_names": [
+      "qiyuxuan96"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Browser Use",
+    "batch": "W25",
+    "one_liner": "open-source web agents",
+    "hn_url": "https://news.ycombinator.com/item?id=43173378",
+    "hn_points": 259,
+    "hn_comments": 100,
+    "launched_at": "2025-02-25T15:45:17Z",
+    "story_id": 43173378,
+    "founder_names": [
+      "MagMueller"
+    ],
+    "tags": [
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Albedo",
+    "batch": "W21",
+    "one_liner": "Highest resolution satellite imagery",
+    "hn_url": "https://news.ycombinator.com/item?id=25989085",
+    "hn_points": 202,
+    "hn_comments": 128,
+    "launched_at": "2021-02-01T14:45:10Z",
+    "story_id": 25989085,
+    "founder_names": [
+      "topherhaddad"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "A0.dev",
+    "batch": "W25",
+    "one_liner": "React Native App Generator",
+    "hn_url": "https://news.ycombinator.com/item?id=43015267",
+    "hn_points": 263,
+    "hn_comments": 97,
+    "launched_at": "2025-02-11T17:08:35Z",
+    "story_id": 43015267,
+    "founder_names": [
+      "sethburster"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Deepnote",
+    "batch": "S19",
+    "one_liner": "A better data science notebook",
+    "hn_url": "https://news.ycombinator.com/item?id=24942797",
+    "hn_points": 316,
+    "hn_comments": 70,
+    "launched_at": "2020-10-30T14:49:46Z",
+    "story_id": 24942797,
+    "founder_names": [
+      "Equiet"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Anja Health",
+    "batch": "W22",
+    "one_liner": "Freezing stem cells at birth for future health",
+    "hn_url": "https://news.ycombinator.com/item?id=30305959",
+    "hn_points": 148,
+    "hn_comments": 154,
+    "launched_at": "2022-02-11T19:29:48Z",
+    "story_id": 30305959,
+    "founder_names": [
+      "pkukp9"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Papercups",
+    "batch": "S20",
+    "one_liner": "Open-Core Intercom Alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=24133719",
+    "hn_points": 285,
+    "hn_comments": 85,
+    "launched_at": "2020-08-12T16:32:01Z",
+    "story_id": 24133719,
+    "founder_names": [
+      "cheeseblubber"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mezli",
+    "batch": "W21",
+    "one_liner": "Robotic restaurants that serve healthy fast food",
+    "hn_url": "https://news.ycombinator.com/item?id=26468204",
+    "hn_points": 201,
+    "hn_comments": 127,
+    "launched_at": "2021-03-15T16:39:29Z",
+    "story_id": 26468204,
+    "founder_names": [
+      "kolchinski"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Iollo",
+    "batch": "S22",
+    "one_liner": "At-home metabolomics test to extend healthy lifespan",
+    "hn_url": "https://news.ycombinator.com/item?id=32333417",
+    "hn_points": 167,
+    "hn_comments": 144,
+    "launched_at": "2022-08-03T15:56:41Z",
+    "story_id": 32333417,
+    "founder_names": [
+      "danielgomari"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tiptap",
+    "batch": "S23",
+    "one_liner": "Toolkit for developing collaborative editors",
+    "hn_url": "https://news.ycombinator.com/item?id=36957204",
+    "hn_points": 246,
+    "hn_comments": 103,
+    "launched_at": "2023-08-01T15:24:51Z",
+    "story_id": 36957204,
+    "founder_names": [
+      "philipisik"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Roame",
+    "batch": "S23",
+    "one_liner": "Flight search engine for your credit card points",
+    "hn_url": "https://news.ycombinator.com/item?id=41100094",
+    "hn_points": 192,
+    "hn_comments": 130,
+    "launched_at": "2024-07-29T12:56:23Z",
+    "story_id": 41100094,
+    "founder_names": [
+      "zman0225"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "PostHog",
+    "batch": "W20",
+    "one_liner": "open-source product analytics",
+    "hn_url": "https://news.ycombinator.com/item?id=22376732",
+    "hn_points": 282,
+    "hn_comments": 83,
+    "launched_at": "2020-02-20T17:27:46Z",
+    "story_id": 22376732,
+    "founder_names": [
+      "james_impliu"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Astro",
+    "batch": "W21",
+    "one_liner": "Build your own dev teams in Latin America",
+    "hn_url": "https://news.ycombinator.com/item?id=31838764",
+    "hn_points": 164,
+    "hn_comments": 142,
+    "launched_at": "2022-06-22T17:07:15Z",
+    "story_id": 31838764,
+    "founder_names": [
+      "FrankLicea"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Boxouse",
+    "batch": "W17",
+    "one_liner": "Shipping-container homes",
+    "hn_url": "https://news.ycombinator.com/item?id=13924099",
+    "hn_points": 142,
+    "hn_comments": 152,
+    "launched_at": "2017-03-21T17:06:11Z",
+    "story_id": 13924099,
+    "founder_names": [
+      "liseman"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Evidence",
+    "batch": "S21",
+    "one_liner": "Web framework for data analysts",
+    "hn_url": "https://news.ycombinator.com/item?id=28304781",
+    "hn_points": 263,
+    "hn_comments": 91,
+    "launched_at": "2021-08-25T18:03:25Z",
+    "story_id": 28304781,
+    "founder_names": [
+      "amcaskill"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Refine",
+    "batch": "S23",
+    "one_liner": "Open-source platform for enterprise web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=37064822",
+    "hn_points": 259,
+    "hn_comments": 92,
+    "launched_at": "2023-08-09T16:11:09Z",
+    "story_id": 37064822,
+    "founder_names": [
+      "civan"
+    ],
+    "tags": [
+      "enterprise"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Quell",
+    "batch": "S20",
+    "one_liner": "Immersive gaming and combat workout",
+    "hn_url": "https://news.ycombinator.com/item?id=24210098",
+    "hn_points": 170,
+    "hn_comments": 134,
+    "launched_at": "2020-08-19T13:24:57Z",
+    "story_id": 24210098,
+    "founder_names": [
+      "douglaspaul"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hatchet",
+    "batch": "W24",
+    "one_liner": "Open-source task queue, now with a cloud version",
+    "hn_url": "https://news.ycombinator.com/item?id=40810986",
+    "hn_points": 245,
+    "hn_comments": 95,
+    "launched_at": "2024-06-27T14:35:34Z",
+    "story_id": 40810986,
+    "founder_names": [
+      "abelanger"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bitrig",
+    "batch": "S25",
+    "one_liner": "Build Swift apps on your iPhone",
+    "hn_url": "https://news.ycombinator.com/item?id=45041185",
+    "hn_points": 188,
+    "hn_comments": 122,
+    "launched_at": "2025-08-27T15:39:33Z",
+    "story_id": 45041185,
+    "founder_names": [
+      "kylemacomber"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hedgehog",
+    "batch": "S21",
+    "one_liner": "Cryptocurrency Portfolio Manager",
+    "hn_url": "https://news.ycombinator.com/item?id=27550255",
+    "hn_points": 158,
+    "hn_comments": 137,
+    "launched_at": "2021-06-18T13:48:19Z",
+    "story_id": 27550255,
+    "founder_names": [
+      "cadillion"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Stellar Sleep",
+    "batch": "S23",
+    "one_liner": "An app that helps people with insomnia",
+    "hn_url": "https://news.ycombinator.com/item?id=37048758",
+    "hn_points": 127,
+    "hn_comments": 152,
+    "launched_at": "2023-08-08T13:35:10Z",
+    "story_id": 37048758,
+    "founder_names": [
+      "edreichua"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hatchways",
+    "batch": "S19",
+    "one_liner": "Internships Instead of Interviews",
+    "hn_url": "https://news.ycombinator.com/item?id=20578850",
+    "hn_points": 267,
+    "hn_comments": 81,
+    "launched_at": "2019-07-31T21:38:59Z",
+    "story_id": 20578850,
+    "founder_names": [
+      "jaclynmling"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Gravitl",
+    "batch": "W22",
+    "one_liner": "VPN Platform Based on WireGuard",
+    "hn_url": "https://news.ycombinator.com/item?id=29809830",
+    "hn_points": 209,
+    "hn_comments": 109,
+    "launched_at": "2022-01-05T15:05:26Z",
+    "story_id": 29809830,
+    "founder_names": [
+      "afeiszli"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sweep",
+    "batch": "S23",
+    "one_liner": "A bot to create simple PRs in your codebase",
+    "hn_url": "https://news.ycombinator.com/item?id=36987454",
+    "hn_points": 198,
+    "hn_comments": 114,
+    "launched_at": "2023-08-03T15:45:58Z",
+    "story_id": 36987454,
+    "founder_names": [
+      "williamzeng0"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Trustle",
+    "batch": "W20",
+    "one_liner": "On-demand child development experts for parents",
+    "hn_url": "https://news.ycombinator.com/item?id=22496163",
+    "hn_points": 142,
+    "hn_comments": 142,
+    "launched_at": "2020-03-05T18:03:30Z",
+    "story_id": 22496163,
+    "founder_names": [
+      "eba7keb"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Loops",
+    "batch": "W22",
+    "one_liner": "Email for SaaS Companies",
+    "hn_url": "https://news.ycombinator.com/item?id=37596253",
+    "hn_points": 151,
+    "hn_comments": 137,
+    "launched_at": "2023-09-21T11:48:51Z",
+    "story_id": 37596253,
+    "founder_names": [
+      "chrisfrantz"
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Defer",
+    "batch": "W23",
+    "one_liner": "Zero-infrastructure background jobs for Node.js",
+    "hn_url": "https://news.ycombinator.com/item?id=35096366",
+    "hn_points": 202,
+    "hn_comments": 111,
+    "launched_at": "2023-03-10T16:16:28Z",
+    "story_id": 35096366,
+    "founder_names": [
+      "wittydeveloper"
+    ],
+    "tags": [
+      "infrastructure"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "K-Scale Labs",
+    "batch": "W24",
+    "one_liner": "Open-Source Humanoid Robots",
+    "hn_url": "https://news.ycombinator.com/item?id=44456904",
+    "hn_points": 233,
+    "hn_comments": 95,
+    "launched_at": "2025-07-03T16:44:18Z",
+    "story_id": 44456904,
+    "founder_names": [
+      "codekansas"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Brex",
+    "batch": "W17",
+    "one_liner": "Corporate Credit Card for Startups",
+    "hn_url": "https://news.ycombinator.com/item?id=17418813",
+    "hn_points": 183,
+    "hn_comments": 120,
+    "launched_at": "2018-06-28T17:23:50Z",
+    "story_id": 17418813,
+    "founder_names": [
+      "hdubugras"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Turion Space",
+    "batch": "S21",
+    "one_liner": "Space debris removal and satellite servicing",
+    "hn_url": "https://news.ycombinator.com/item?id=28061725",
+    "hn_points": 200,
+    "hn_comments": 111,
+    "launched_at": "2021-08-04T14:56:00Z",
+    "story_id": 28061725,
+    "founder_names": [
+      "rwesterdahl"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Univerbal",
+    "batch": "W23",
+    "one_liner": "Language learning with a conversational AI tutor",
+    "hn_url": "https://news.ycombinator.com/item?id=39188760",
+    "hn_points": 145,
+    "hn_comments": 136,
+    "launched_at": "2024-01-30T11:19:06Z",
+    "story_id": 39188760,
+    "founder_names": [
+      "Hadjimina"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mosaic",
+    "batch": "W25",
+    "one_liner": "Agentic Video Editing",
+    "hn_url": "https://news.ycombinator.com/item?id=45980760",
+    "hn_points": 148,
+    "hn_comments": 134,
+    "launched_at": "2025-11-19T15:28:04Z",
+    "story_id": 45980760,
+    "founder_names": [
+      "adishj"
+    ],
+    "tags": [
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Magic Patterns",
+    "batch": "W23",
+    "one_liner": "AI Design and Prototyping for Product Teams",
+    "hn_url": "https://news.ycombinator.com/item?id=43752176",
+    "hn_points": 185,
+    "hn_comments": 114,
+    "launched_at": "2025-04-21T14:07:03Z",
+    "story_id": 43752176,
+    "founder_names": [
+      "alexdanilowicz"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Taiv",
+    "batch": "W20",
+    "one_liner": "Replace TV commercials with content people care about",
+    "hn_url": "https://news.ycombinator.com/item?id=22666658",
+    "hn_points": 179,
+    "hn_comments": 116,
+    "launched_at": "2020-03-23T17:51:02Z",
+    "story_id": 22666658,
+    "founder_names": [
+      "npalansky"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Manara",
+    "batch": "W21",
+    "one_liner": "Connect Middle East engineers with global companies",
+    "hn_url": "https://news.ycombinator.com/item?id=25849054",
+    "hn_points": 202,
+    "hn_comments": 104,
+    "launched_at": "2021-01-20T17:21:47Z",
+    "story_id": 25849054,
+    "founder_names": [
+      "laila90"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Outerbase",
+    "batch": "W23",
+    "one_liner": "A new UI and editor for your database",
+    "hn_url": "https://news.ycombinator.com/item?id=35185122",
+    "hn_points": 185,
+    "hn_comments": 112,
+    "launched_at": "2023-03-16T17:23:17Z",
+    "story_id": 35185122,
+    "founder_names": [
+      "burcs"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Depot",
+    "batch": "W23",
+    "one_liner": "Fast Docker Builds in the Cloud",
+    "hn_url": "https://news.ycombinator.com/item?id=34898253",
+    "hn_points": 224,
+    "hn_comments": 92,
+    "launched_at": "2023-02-22T16:40:15Z",
+    "story_id": 34898253,
+    "founder_names": [
+      "jacobwg"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Carry",
+    "batch": "S19",
+    "one_liner": "We Book Travel for You on Slack",
+    "hn_url": "https://news.ycombinator.com/item?id=20337254",
+    "hn_points": 158,
+    "hn_comments": 124,
+    "launched_at": "2019-07-02T17:21:20Z",
+    "story_id": 20337254,
+    "founder_names": [
+      "tejasmanohar"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lumona",
+    "batch": "W24",
+    "one_liner": "Product search based on Reddit and YouTube reviews",
+    "hn_url": "https://news.ycombinator.com/item?id=39867757",
+    "hn_points": 148,
+    "hn_comments": 128,
+    "launched_at": "2024-03-29T19:04:04Z",
+    "story_id": 39867757,
+    "founder_names": [
+      "philena"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Continue",
+    "batch": "S23",
+    "one_liner": "Create custom AI code assistants",
+    "hn_url": "https://news.ycombinator.com/item?id=43494427",
+    "hn_points": 178,
+    "hn_comments": 110,
+    "launched_at": "2025-03-27T15:06:26Z",
+    "story_id": 43494427,
+    "founder_names": [
+      "sestinj"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bedrock AI",
+    "batch": "S21",
+    "one_liner": "Using ML to identify red flags in SEC filings",
+    "hn_url": "https://news.ycombinator.com/item?id=27893182",
+    "hn_points": 183,
+    "hn_comments": 107,
+    "launched_at": "2021-07-20T13:00:58Z",
+    "story_id": 27893182,
+    "founder_names": [
+      "kbennatti"
+    ],
+    "tags": [
+      "ML"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Metal",
+    "batch": "W23",
+    "one_liner": "Embeddings as a Service",
+    "hn_url": "https://news.ycombinator.com/item?id=35341514",
+    "hn_points": 196,
+    "hn_comments": 99,
+    "launched_at": "2023-03-28T14:18:40Z",
+    "story_id": 35341514,
+    "founder_names": [
+      "tlowe11"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Satchel",
+    "batch": "S18",
+    "one_liner": "Guides to the Best SaaS Tools",
+    "hn_url": "https://news.ycombinator.com/item?id=23236319",
+    "hn_points": 207,
+    "hn_comments": 93,
+    "launched_at": "2020-05-19T15:59:28Z",
+    "story_id": 23236319,
+    "founder_names": [
+      "Fission"
+    ],
+    "tags": [
+      "SaaS"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Legacy",
+    "batch": "S19",
+    "one_liner": "we help men test and freeze their sperm",
+    "hn_url": "https://news.ycombinator.com/item?id=23846186",
+    "hn_points": 193,
+    "hn_comments": 100,
+    "launched_at": "2020-07-15T15:04:37Z",
+    "story_id": 23846186,
+    "founder_names": [
+      "khaledkteily"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SigNoz",
+    "batch": "W21",
+    "one_liner": "Open-source alternative to DataDog",
+    "hn_url": "https://news.ycombinator.com/item?id=26079389",
+    "hn_points": 226,
+    "hn_comments": 83,
+    "launched_at": "2021-02-09T16:29:02Z",
+    "story_id": 26079389,
+    "founder_names": [
+      "pranay01"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Enhanced Radar",
+    "batch": "W25",
+    "one_liner": "A safety net for air traffic control",
+    "hn_url": "https://news.ycombinator.com/item?id=43257323",
+    "hn_points": 166,
+    "hn_comments": 113,
+    "launched_at": "2025-03-04T17:04:17Z",
+    "story_id": 43257323,
+    "founder_names": [
+      "kristian1109"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Nestybox",
+    "batch": "S20",
+    "one_liner": "Containers beyond microservices",
+    "hn_url": "https://news.ycombinator.com/item?id=24084758",
+    "hn_points": 168,
+    "hn_comments": 111,
+    "launched_at": "2020-08-07T18:00:52Z",
+    "story_id": 24084758,
+    "founder_names": [
+      "ctalledo"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Porter",
+    "batch": "S20",
+    "one_liner": "Open-source Heroku in your own cloud",
+    "hn_url": "https://news.ycombinator.com/item?id=26993421",
+    "hn_points": 239,
+    "hn_comments": 74,
+    "launched_at": "2021-04-30T13:49:04Z",
+    "story_id": 26993421,
+    "founder_names": [
+      "sungrokshim"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "BaseDash",
+    "batch": "S20",
+    "one_liner": "Edit your database with the ease of a spreadsheet",
+    "hn_url": "https://news.ycombinator.com/item?id=23999124",
+    "hn_points": 191,
+    "hn_comments": 98,
+    "launched_at": "2020-07-30T15:14:42Z",
+    "story_id": 23999124,
+    "founder_names": [
+      "maxmusing"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Wondercraft",
+    "batch": "S22",
+    "one_liner": "Use text-to-speech to create podcasts easily",
+    "hn_url": "https://news.ycombinator.com/item?id=37088087",
+    "hn_points": 153,
+    "hn_comments": 117,
+    "launched_at": "2023-08-11T12:46:33Z",
+    "story_id": 37088087,
+    "founder_names": [
+      "diminikolaou"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Scrimba",
+    "batch": "S20",
+    "one_liner": "Interactive video for learning to code",
+    "hn_url": "https://news.ycombinator.com/item?id=24579699",
+    "hn_points": 242,
+    "hn_comments": 72,
+    "launched_at": "2020-09-24T15:43:45Z",
+    "story_id": 24579699,
+    "founder_names": [
+      "mrborgen"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Baseplate",
+    "batch": "W23",
+    "one_liner": "Back end-as-a-service for LLM apps",
+    "hn_url": "https://news.ycombinator.com/item?id=35375727",
+    "hn_points": 177,
+    "hn_comments": 104,
+    "launched_at": "2023-03-30T16:56:38Z",
+    "story_id": 35375727,
+    "founder_names": [
+      "andrewlu0"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mudrex",
+    "batch": "W19",
+    "one_liner": "Automated Trading Without Code",
+    "hn_url": "https://news.ycombinator.com/item?id=19347443",
+    "hn_points": 157,
+    "hn_comments": 114,
+    "launched_at": "2019-03-09T18:02:09Z",
+    "story_id": 19347443,
+    "founder_names": [
+      "rohitgoyal"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Visual One",
+    "batch": "W20",
+    "one_liner": "Event recognition for security cameras",
+    "hn_url": "https://news.ycombinator.com/item?id=22559840",
+    "hn_points": 117,
+    "hn_comments": 134,
+    "launched_at": "2020-03-12T18:11:15Z",
+    "story_id": 22559840,
+    "founder_names": [
+      "mrafiee"
+    ],
+    "tags": [
+      "security"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Integuru",
+    "batch": "W24",
+    "one_liner": "Reverse-engineer internal APIs using LLMs",
+    "hn_url": "https://news.ycombinator.com/item?id=41983409",
+    "hn_points": 218,
+    "hn_comments": 83,
+    "launched_at": "2024-10-29T13:00:40Z",
+    "story_id": 41983409,
+    "founder_names": [
+      "richardzhang"
+    ],
+    "tags": [
+      "LLM",
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tella",
+    "batch": "S20",
+    "one_liner": "Collaborative video editing in the browser",
+    "hn_url": "https://news.ycombinator.com/item?id=24158509",
+    "hn_points": 221,
+    "hn_comments": 81,
+    "launched_at": "2020-08-14T14:40:47Z",
+    "story_id": 24158509,
+    "founder_names": [
+      "9ranty"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Quirk",
+    "batch": "S19",
+    "one_liner": "Open-Source Cognitive Behavioral Therapy",
+    "hn_url": "https://news.ycombinator.com/item?id=20646918",
+    "hn_points": 196,
+    "hn_comments": 93,
+    "launched_at": "2019-08-08T18:02:17Z",
+    "story_id": 20646918,
+    "founder_names": [
+      "flaque"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Seed",
+    "batch": "W21",
+    "one_liner": "A Fully-Managed CI/CD Pipeline for Serverless",
+    "hn_url": "https://news.ycombinator.com/item?id=25835280",
+    "hn_points": 178,
+    "hn_comments": 102,
+    "launched_at": "2021-01-19T16:44:34Z",
+    "story_id": 25835280,
+    "founder_names": [
+      "jayair"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Wasp",
+    "batch": "W21",
+    "one_liner": "DSL for building full-stack web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=26091956",
+    "hn_points": 222,
+    "hn_comments": 79,
+    "launched_at": "2021-02-10T17:15:50Z",
+    "story_id": 26091956,
+    "founder_names": [
+      "matijash"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Medplum",
+    "batch": "S22",
+    "one_liner": "Open-Source Firebase for Healthcare",
+    "hn_url": "https://news.ycombinator.com/item?id=33521560",
+    "hn_points": 251,
+    "hn_comments": 64,
+    "launched_at": "2022-11-08T17:23:28Z",
+    "story_id": 33521560,
+    "founder_names": [
+      "brown"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Muzmatch",
+    "batch": "S17",
+    "one_liner": "A place where 400M single Muslims can meet",
+    "hn_url": "https://news.ycombinator.com/item?id=14959835",
+    "hn_points": 147,
+    "hn_comments": 116,
+    "launched_at": "2017-08-08T17:00:45Z",
+    "story_id": 14959835,
+    "founder_names": [
+      "brod_ie"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Wifi Dabba",
+    "batch": "W17",
+    "one_liner": "Low-Cost Wifi in India",
+    "hn_url": "https://news.ycombinator.com/item?id=13879335",
+    "hn_points": 188,
+    "hn_comments": 95,
+    "launched_at": "2017-03-15T20:09:49Z",
+    "story_id": 13879335,
+    "founder_names": [
+      "mildlyclassic"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dendron",
+    "batch": "W21",
+    "one_liner": "Structured note-taking for developers and teams",
+    "hn_url": "https://news.ycombinator.com/item?id=29176158",
+    "hn_points": 206,
+    "hn_comments": 85,
+    "launched_at": "2021-11-10T16:00:34Z",
+    "story_id": 29176158,
+    "founder_names": [
+      "kevinslin"
+    ],
+    "tags": [
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Weweb.io",
+    "batch": "W21",
+    "one_liner": "Create websites visually using JAMstack tools",
+    "hn_url": "https://news.ycombinator.com/item?id=26248123",
+    "hn_points": 195,
+    "hn_comments": 89,
+    "launched_at": "2021-02-24T09:13:36Z",
+    "story_id": 26248123,
+    "founder_names": [
+      "raphael-gold"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Carbon Crusher",
+    "batch": "W22",
+    "one_liner": "Carbon Negative Roads",
+    "hn_url": "https://news.ycombinator.com/item?id=30793076",
+    "hn_points": 187,
+    "hn_comments": 93,
+    "launched_at": "2022-03-24T17:40:05Z",
+    "story_id": 30793076,
+    "founder_names": [
+      "haakonzen"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "PointOne",
+    "batch": "W24",
+    "one_liner": "Automated time tracking for lawyers",
+    "hn_url": "https://news.ycombinator.com/item?id=39842617",
+    "hn_points": 137,
+    "hn_comments": 118,
+    "launched_at": "2024-03-27T18:10:57Z",
+    "story_id": 39842617,
+    "founder_names": [
+      "jeremybenmeir"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Soundry AI",
+    "batch": "W24",
+    "one_liner": "Music sample generator for music creators",
+    "hn_url": "https://news.ycombinator.com/item?id=39782213",
+    "hn_points": 171,
+    "hn_comments": 100,
+    "launched_at": "2024-03-21T18:09:18Z",
+    "story_id": 39782213,
+    "founder_names": [
+      "kantthpel"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Windmill",
+    "batch": "S22",
+    "one_liner": "Turn scripts into internal apps and workflows",
+    "hn_url": "https://news.ycombinator.com/item?id=32400849",
+    "hn_points": 212,
+    "hn_comments": 79,
+    "launched_at": "2022-08-09T17:19:18Z",
+    "story_id": 32400849,
+    "founder_names": [
+      "rubenfiszel"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Rally.Video",
+    "batch": "S20",
+    "one_liner": "Dynamic video platform for social groups",
+    "hn_url": "https://news.ycombinator.com/item?id=24109523",
+    "hn_points": 194,
+    "hn_comments": 87,
+    "launched_at": "2020-08-10T14:19:58Z",
+    "story_id": 24109523,
+    "founder_names": [
+      "Ali_Jiwani"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Spoken",
+    "batch": "S21",
+    "one_liner": "Better furniture shopping",
+    "hn_url": "https://news.ycombinator.com/item?id=30757421",
+    "hn_points": 132,
+    "hn_comments": 118,
+    "launched_at": "2022-03-21T17:53:39Z",
+    "story_id": 30757421,
+    "founder_names": [
+      "lgabraham"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Phase Biolabs",
+    "batch": "W22",
+    "one_liner": "Converting CO2 to Carbon-Neutral Chemicals",
+    "hn_url": "https://news.ycombinator.com/item?id=30557288",
+    "hn_points": 191,
+    "hn_comments": 88,
+    "launched_at": "2022-03-04T17:00:34Z",
+    "story_id": 30557288,
+    "founder_names": [
+      "DavidPBL"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "CodeViz",
+    "batch": "S24",
+    "one_liner": "Visual maps of your codebase in VS Code",
+    "hn_url": "https://news.ycombinator.com/item?id=41393458",
+    "hn_points": 189,
+    "hn_comments": 89,
+    "launched_at": "2024-08-29T17:50:23Z",
+    "story_id": 41393458,
+    "founder_names": [
+      "LiamPrevelige"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Ophelia",
+    "batch": "W20",
+    "one_liner": "At-home recovery for opioid addiction",
+    "hn_url": "https://news.ycombinator.com/item?id=22570133",
+    "hn_points": 228,
+    "hn_comments": 69,
+    "launched_at": "2020-03-13T19:23:51Z",
+    "story_id": 22570133,
+    "founder_names": [
+      "ZackGray"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dashblock",
+    "batch": "S19",
+    "one_liner": "Turn Any Website into an API",
+    "hn_url": "https://news.ycombinator.com/item?id=21006475",
+    "hn_points": 165,
+    "hn_comments": 100,
+    "launched_at": "2019-09-18T15:36:30Z",
+    "story_id": 21006475,
+    "founder_names": [
+      "HPouillot"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Noya",
+    "batch": "W23",
+    "one_liner": "a new kind of design tool",
+    "hn_url": "https://news.ycombinator.com/item?id=35374639",
+    "hn_points": 241,
+    "hn_comments": 61,
+    "launched_at": "2023-03-30T15:50:42Z",
+    "story_id": 35374639,
+    "founder_names": [
+      "dabbott"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Slapdash",
+    "batch": "W19",
+    "one_liner": "A uniform, low-latency interface for cloud apps",
+    "hn_url": "https://news.ycombinator.com/item?id=24364811",
+    "hn_points": 227,
+    "hn_comments": 68,
+    "launched_at": "2020-09-03T15:13:38Z",
+    "story_id": 24364811,
+    "founder_names": [
+      "kanevski"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Ditto",
+    "batch": "W20",
+    "one_liner": "Keep product text in sync from design to production",
+    "hn_url": "https://news.ycombinator.com/item?id=27142930",
+    "hn_points": 223,
+    "hn_comments": 70,
+    "launched_at": "2021-05-13T15:07:30Z",
+    "story_id": 27142930,
+    "founder_names": [
+      "jessouyang"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Requestly",
+    "batch": "W22",
+    "one_liner": "Network debugging proxy for web and mobile",
+    "hn_url": "https://news.ycombinator.com/item?id=30540735",
+    "hn_points": 190,
+    "hn_comments": 85,
+    "launched_at": "2022-03-03T13:33:28Z",
+    "story_id": 30540735,
+    "founder_names": [
+      "sachinjain"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Martin",
+    "batch": "S23",
+    "one_liner": "Using LLMs to Make a Better Siri",
+    "hn_url": "https://news.ycombinator.com/item?id=41119443",
+    "hn_points": 153,
+    "hn_comments": 103,
+    "launched_at": "2024-07-31T14:24:27Z",
+    "story_id": 41119443,
+    "founder_names": [
+      "darweenist"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Blyss",
+    "batch": "W23",
+    "one_liner": "Homomorphic encryption as a service",
+    "hn_url": "https://news.ycombinator.com/item?id=35153344",
+    "hn_points": 206,
+    "hn_comments": 75,
+    "launched_at": "2023-03-14T15:42:48Z",
+    "story_id": 35153344,
+    "founder_names": [
+      "blintz"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Activepieces",
+    "batch": "S22",
+    "one_liner": "Open-Source Zapier Alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=34723989",
+    "hn_points": 231,
+    "hn_comments": 62,
+    "launched_at": "2023-02-09T14:02:21Z",
+    "story_id": 34723989,
+    "founder_names": [
+      "ashrafsam"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Station",
+    "batch": "W18",
+    "one_liner": "One place for all your web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=18123596",
+    "hn_points": 107,
+    "hn_comments": 123,
+    "launched_at": "2018-10-02T17:12:30Z",
+    "story_id": 18123596,
+    "founder_names": [
+      "jberthom"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Airbyte",
+    "batch": "W20",
+    "one_liner": "Open-Source ELT (Fivetran/Stitch Alternative)",
+    "hn_url": "https://news.ycombinator.com/item?id=25917403",
+    "hn_points": 178,
+    "hn_comments": 87,
+    "launched_at": "2021-01-26T16:08:02Z",
+    "story_id": 25917403,
+    "founder_names": [
+      "mtricot"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Wren",
+    "batch": "S19",
+    "one_liner": "Offset Your Carbon Footprint",
+    "hn_url": "https://news.ycombinator.com/item?id=20461577",
+    "hn_points": 114,
+    "hn_comments": 119,
+    "launched_at": "2019-07-17T17:01:42Z",
+    "story_id": 20461577,
+    "founder_names": [
+      "landon32"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Kable",
+    "batch": "W22",
+    "one_liner": "All-in-one platform for API products",
+    "hn_url": "https://news.ycombinator.com/item?id=30627558",
+    "hn_points": 193,
+    "hn_comments": 79,
+    "launched_at": "2022-03-10T14:52:39Z",
+    "story_id": 30627558,
+    "founder_names": [
+      "asommer12"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Onu",
+    "batch": "W23",
+    "one_liner": "Turn scripts into internal tools in minutes",
+    "hn_url": "https://news.ycombinator.com/item?id=36140916",
+    "hn_points": 160,
+    "hn_comments": 95,
+    "launched_at": "2023-05-31T17:19:40Z",
+    "story_id": 36140916,
+    "founder_names": [
+      "lredd"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Clover",
+    "batch": "S20",
+    "one_liner": "Notes, whiteboarding, and daily planner in one tool",
+    "hn_url": "https://news.ycombinator.com/item?id=29892134",
+    "hn_points": 140,
+    "hn_comments": 105,
+    "launched_at": "2022-01-11T14:57:26Z",
+    "story_id": 29892134,
+    "founder_names": [
+      "attasi"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "DryMerge",
+    "batch": "W24",
+    "one_liner": "Automate Workflows with Plain English",
+    "hn_url": "https://news.ycombinator.com/item?id=39792136",
+    "hn_points": 179,
+    "hn_comments": 85,
+    "launched_at": "2024-03-22T16:15:53Z",
+    "story_id": 39792136,
+    "founder_names": [
+      "samuelbrashears"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Modernbanc",
+    "batch": "W20",
+    "one_liner": "Modern and fast accounting software",
+    "hn_url": "https://news.ycombinator.com/item?id=43414405",
+    "hn_points": 123,
+    "hn_comments": 113,
+    "launched_at": "2025-03-19T16:50:05Z",
+    "story_id": 43414405,
+    "founder_names": [
+      "gregorygev"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "FloydHub",
+    "batch": "W17",
+    "one_liner": "Heroku for Deep Learning",
+    "hn_url": "https://news.ycombinator.com/item?id=13659914",
+    "hn_points": 178,
+    "hn_comments": 85,
+    "launched_at": "2017-02-16T14:05:55Z",
+    "story_id": 13659914,
+    "founder_names": [
+      "saip"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sunu",
+    "batch": "S17",
+    "one_liner": "Sonar wristband helping blind people navigate",
+    "hn_url": "https://news.ycombinator.com/item?id=14867312",
+    "hn_points": 199,
+    "hn_comments": 74,
+    "launched_at": "2017-07-27T17:12:01Z",
+    "story_id": 14867312,
+    "founder_names": [
+      "marco_trujillo"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Deepsilicon",
+    "batch": "S24",
+    "one_liner": "Software and hardware for ternary transformers",
+    "hn_url": "https://news.ycombinator.com/item?id=41490196",
+    "hn_points": 189,
+    "hn_comments": 79,
+    "launched_at": "2024-09-09T16:30:46Z",
+    "story_id": 41490196,
+    "founder_names": [
+      "areddyyt"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hera",
+    "batch": "S21",
+    "one_liner": "macOS app to prepare, join and take notes in meetings",
+    "hn_url": "https://news.ycombinator.com/item?id=27771091",
+    "hn_points": 116,
+    "hn_comments": 115,
+    "launched_at": "2021-07-08T12:32:38Z",
+    "story_id": 27771091,
+    "founder_names": [
+      "brunovegreville"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Channel3",
+    "batch": "S25",
+    "one_liner": "A database of every product on the internet",
+    "hn_url": "https://news.ycombinator.com/item?id=44962881",
+    "hn_points": 147,
+    "hn_comments": 99,
+    "launched_at": "2025-08-20T15:34:07Z",
+    "story_id": 44962881,
+    "founder_names": [
+      "glawrence13"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Inri",
+    "batch": "W23",
+    "one_liner": "Wealthfront for Investing in India",
+    "hn_url": "https://news.ycombinator.com/item?id=35389110",
+    "hn_points": 146,
+    "hn_comments": 98,
+    "launched_at": "2023-03-31T16:02:50Z",
+    "story_id": 35389110,
+    "founder_names": [
+      "nish93"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Peer5",
+    "batch": "W17",
+    "one_liner": "Serverless CDN",
+    "hn_url": "https://news.ycombinator.com/item?id=13501581",
+    "hn_points": 108,
+    "hn_comments": 117,
+    "launched_at": "2017-01-27T18:37:58Z",
+    "story_id": 13501581,
+    "founder_names": [
+      "shacharz"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Datafold",
+    "batch": "S20",
+    "one_liner": "Diff Tool for SQL Databases",
+    "hn_url": "https://news.ycombinator.com/item?id=24071955",
+    "hn_points": 189,
+    "hn_comments": 76,
+    "launched_at": "2020-08-06T15:43:08Z",
+    "story_id": 24071955,
+    "founder_names": [
+      "hichkaker"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SST",
+    "batch": "W21",
+    "one_liner": "A live development environment for AWS Lambda",
+    "hn_url": "https://news.ycombinator.com/item?id=26315585",
+    "hn_points": 165,
+    "hn_comments": 88,
+    "launched_at": "2021-03-02T14:23:56Z",
+    "story_id": 26315585,
+    "founder_names": [
+      "jayair"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "InstaKin",
+    "batch": "S21",
+    "one_liner": "Help immigrants to manage tasks in home countries",
+    "hn_url": "https://news.ycombinator.com/item?id=27958605",
+    "hn_points": 202,
+    "hn_comments": 69,
+    "launched_at": "2021-07-26T12:34:23Z",
+    "story_id": 27958605,
+    "founder_names": [
+      "yshirazi"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lyrebird",
+    "batch": "S17",
+    "one_liner": "Create a digital copy of your voice",
+    "hn_url": "https://news.ycombinator.com/item?id=15185089",
+    "hn_points": 154,
+    "hn_comments": 93,
+    "launched_at": "2017-09-06T16:49:00Z",
+    "story_id": 15185089,
+    "founder_names": [
+      "adbrebs"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Nango",
+    "batch": "W23",
+    "one_liner": "Source-available unified API",
+    "hn_url": "https://news.ycombinator.com/item?id=40158481",
+    "hn_points": 190,
+    "hn_comments": 74,
+    "launched_at": "2024-04-25T15:09:02Z",
+    "story_id": 40158481,
+    "founder_names": [
+      "rguldener"
+    ],
+    "tags": [
+      "AI",
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Langfuse",
+    "batch": "W23",
+    "one_liner": "OSS Tracing and Workflows to Improve LLM Apps",
+    "hn_url": "https://news.ycombinator.com/item?id=42441258",
+    "hn_points": 215,
+    "hn_comments": 61,
+    "launched_at": "2024-12-17T13:43:29Z",
+    "story_id": 42441258,
+    "founder_names": [
+      "mdeichmann"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Finmark",
+    "batch": "S20",
+    "one_liner": "Financial planning software for startups",
+    "hn_url": "https://news.ycombinator.com/item?id=25860819",
+    "hn_points": 191,
+    "hn_comments": 73,
+    "launched_at": "2021-01-21T16:42:12Z",
+    "story_id": 25860819,
+    "founder_names": [
+      "ramie"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Okapi",
+    "batch": "W24",
+    "one_liner": "A new, flexible CRM with good UX",
+    "hn_url": "https://news.ycombinator.com/item?id=39755927",
+    "hn_points": 133,
+    "hn_comments": 102,
+    "launched_at": "2024-03-19T14:14:24Z",
+    "story_id": 39755927,
+    "founder_names": [
+      "ucarion"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Stralis",
+    "batch": "W23",
+    "one_liner": "Hydrogen electric aircraft for medium-haul travel",
+    "hn_url": "https://news.ycombinator.com/item?id=38353473",
+    "hn_points": 149,
+    "hn_comments": 93,
+    "launched_at": "2023-11-20T19:47:49Z",
+    "story_id": 38353473,
+    "founder_names": [
+      "stuart8ol"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Flow Club",
+    "batch": "S21",
+    "one_liner": "Virtual co-working space for focused work",
+    "hn_url": "https://news.ycombinator.com/item?id=28222242",
+    "hn_points": 184,
+    "hn_comments": 75,
+    "launched_at": "2021-08-18T15:14:13Z",
+    "story_id": 28222242,
+    "founder_names": [
+      "rickyyean"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Fuzzbuzz",
+    "batch": "W19",
+    "one_liner": "Fuzzing as a Service",
+    "hn_url": "https://news.ycombinator.com/item?id=19265377",
+    "hn_points": 171,
+    "hn_comments": 81,
+    "launched_at": "2019-02-27T18:03:00Z",
+    "story_id": 19265377,
+    "founder_names": [
+      "evmunro"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Delve",
+    "batch": "W24",
+    "one_liner": "HIPAA compliance as a service",
+    "hn_url": "https://news.ycombinator.com/item?id=39513054",
+    "hn_points": 111,
+    "hn_comments": 111,
+    "launched_at": "2024-02-26T16:17:54Z",
+    "story_id": 39513054,
+    "founder_names": [
+      "selinkocalar"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "AgentHub",
+    "batch": "W24",
+    "one_liner": "A no-code automation platform",
+    "hn_url": "https://news.ycombinator.com/item?id=39302870",
+    "hn_points": 162,
+    "hn_comments": 85,
+    "launched_at": "2024-02-08T15:17:05Z",
+    "story_id": 39302870,
+    "founder_names": [
+      "murb"
+    ],
+    "tags": [
+      "automation"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sidekick",
+    "batch": "W23",
+    "one_liner": "AI support bot for developers",
+    "hn_url": "https://news.ycombinator.com/item?id=35184120",
+    "hn_points": 158,
+    "hn_comments": 87,
+    "launched_at": "2023-03-16T16:21:21Z",
+    "story_id": 35184120,
+    "founder_names": [
+      "jasonwcfan"
+    ],
+    "tags": [
+      "AI",
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Zenfetch",
+    "batch": "W23",
+    "one_liner": "Turn notes/browser history into an AI assistant",
+    "hn_url": "https://news.ycombinator.com/item?id=39385635",
+    "hn_points": 136,
+    "hn_comments": 98,
+    "launched_at": "2024-02-15T17:39:48Z",
+    "story_id": 39385635,
+    "founder_names": [
+      "rex123"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Charge Robotics",
+    "batch": "S21",
+    "one_liner": "Robots that build solar farms",
+    "hn_url": "https://news.ycombinator.com/item?id=30780455",
+    "hn_points": 169,
+    "hn_comments": 81,
+    "launched_at": "2022-03-23T16:47:44Z",
+    "story_id": 30780455,
+    "founder_names": [
+      "justicz"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Goodcover",
+    "batch": "S17",
+    "one_liner": "Cooperative renters insurance for half the price",
+    "hn_url": "https://news.ycombinator.com/item?id=22368112",
+    "hn_points": 158,
+    "hn_comments": 86,
+    "launched_at": "2020-02-19T18:00:02Z",
+    "story_id": 22368112,
+    "founder_names": [
+      "chrisplotz"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Scaphold.io",
+    "batch": "W17",
+    "one_liner": "GraphQL Backend as a Service",
+    "hn_url": "https://news.ycombinator.com/item?id=13474042",
+    "hn_points": 143,
+    "hn_comments": 93,
+    "launched_at": "2017-01-24T18:27:08Z",
+    "story_id": 13474042,
+    "founder_names": [
+      "mparis"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Rownd",
+    "batch": "W22",
+    "one_liner": "Add authentication and accounts to any website",
+    "hn_url": "https://news.ycombinator.com/item?id=30615352",
+    "hn_points": 109,
+    "hn_comments": 110,
+    "launched_at": "2022-03-09T15:18:13Z",
+    "story_id": 30615352,
+    "founder_names": [
+      "mhamann"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Pier",
+    "batch": "W23",
+    "one_liner": "Stripe for Credit",
+    "hn_url": "https://news.ycombinator.com/item?id=37930441",
+    "hn_points": 176,
+    "hn_comments": 75,
+    "launched_at": "2023-10-18T15:50:30Z",
+    "story_id": 37930441,
+    "founder_names": [
+      "jess-zhang"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Phind 3",
+    "batch": "S22",
+    "one_liner": "Every answer is a mini-app",
+    "hn_url": "https://news.ycombinator.com/item?id=46137548",
+    "hn_points": 138,
+    "hn_comments": 94,
+    "launched_at": "2025-12-03T17:47:15Z",
+    "story_id": 46137548,
+    "founder_names": [
+      "rushingcreek"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Rainforest QA",
+    "batch": "S12",
+    "one_liner": "No-Code UI Test Automation",
+    "hn_url": "https://news.ycombinator.com/item?id=28947689",
+    "hn_points": 149,
+    "hn_comments": 88,
+    "launched_at": "2021-10-21T17:14:24Z",
+    "story_id": 28947689,
+    "founder_names": [
+      "ukd1"
+    ],
+    "tags": [
+      "automation"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Parade",
+    "batch": "S20",
+    "one_liner": "Launch your company without hiring a designer",
+    "hn_url": "https://news.ycombinator.com/item?id=29382127",
+    "hn_points": 179,
+    "hn_comments": 72,
+    "launched_at": "2021-11-29T16:58:54Z",
+    "story_id": 29382127,
+    "founder_names": [
+      "alexray"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bristle",
+    "batch": "W21",
+    "one_liner": "At-home microbiome test to improve oral health",
+    "hn_url": "https://news.ycombinator.com/item?id=26386664",
+    "hn_points": 155,
+    "hn_comments": 84,
+    "launched_at": "2021-03-08T15:22:23Z",
+    "story_id": 26386664,
+    "founder_names": [
+      "dannygrannick"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Innate",
+    "batch": "F24",
+    "one_liner": "Home robots as easy to program as AI agents",
+    "hn_url": "https://news.ycombinator.com/item?id=42451707",
+    "hn_points": 165,
+    "hn_comments": 77,
+    "launched_at": "2024-12-18T16:09:56Z",
+    "story_id": 42451707,
+    "founder_names": [
+      "apeytavin"
+    ],
+    "tags": [
+      "AI",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Flower",
+    "batch": "W23",
+    "one_liner": "Train AI models on distributed or sensitive data",
+    "hn_url": "https://news.ycombinator.com/item?id=35260815",
+    "hn_points": 180,
+    "hn_comments": 69,
+    "launched_at": "2023-03-22T13:38:17Z",
+    "story_id": 35260815,
+    "founder_names": [
+      "niclane7"
+    ],
+    "tags": [
+      "AI",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Polymath Robotics",
+    "batch": "S22",
+    "one_liner": "General autonomy for industrial vehicles",
+    "hn_url": "https://news.ycombinator.com/item?id=32307773",
+    "hn_points": 172,
+    "hn_comments": 73,
+    "launched_at": "2022-08-01T15:49:01Z",
+    "story_id": 32307773,
+    "founder_names": [
+      "stefan8r"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Openbase",
+    "batch": "S20",
+    "one_liner": "reviews and insights for open-source packages",
+    "hn_url": "https://news.ycombinator.com/item?id=23833441",
+    "hn_points": 148,
+    "hn_comments": 85,
+    "launched_at": "2020-07-14T15:57:52Z",
+    "story_id": 23833441,
+    "founder_names": [
+      "liorgrossman"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Rootly",
+    "batch": "S21",
+    "one_liner": "Manage Incidents in Slack",
+    "hn_url": "https://news.ycombinator.com/item?id=31653985",
+    "hn_points": 132,
+    "hn_comments": 93,
+    "launched_at": "2022-06-07T13:29:31Z",
+    "story_id": 31653985,
+    "founder_names": [
+      "kwent"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Pabio",
+    "batch": "S21",
+    "one_liner": "Interior design and furniture rental as a service",
+    "hn_url": "https://news.ycombinator.com/item?id=27783939",
+    "hn_points": 112,
+    "hn_comments": 103,
+    "launched_at": "2021-07-09T14:22:04Z",
+    "story_id": 27783939,
+    "founder_names": [
+      "anandchowdhary"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Quadrant Eye",
+    "batch": "W21",
+    "one_liner": "Tackling online eye exams and at-home eyecare",
+    "hn_url": "https://news.ycombinator.com/item?id=27423738",
+    "hn_points": 131,
+    "hn_comments": 93,
+    "launched_at": "2021-06-07T15:30:19Z",
+    "story_id": 27423738,
+    "founder_names": [
+      "Killakwinn"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Paragon",
+    "batch": "W20",
+    "one_liner": "Visually Build API Workflows",
+    "hn_url": "https://news.ycombinator.com/item?id=22813834",
+    "hn_points": 210,
+    "hn_comments": 53,
+    "launched_at": "2020-04-08T15:34:16Z",
+    "story_id": 22813834,
+    "founder_names": [
+      "fooly_wk"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Wolfia",
+    "batch": "S22",
+    "one_liner": "A mobile app emulator you can share with a link",
+    "hn_url": "https://news.ycombinator.com/item?id=32388410",
+    "hn_points": 172,
+    "hn_comments": 72,
+    "launched_at": "2022-08-08T17:25:49Z",
+    "story_id": 32388410,
+    "founder_names": [
+      "fabiendevos"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "FlutterFlow",
+    "batch": "W21",
+    "one_liner": "Build Apps Visually",
+    "hn_url": "https://news.ycombinator.com/item?id=29628716",
+    "hn_points": 190,
+    "hn_comments": 62,
+    "launched_at": "2021-12-20T19:07:58Z",
+    "story_id": 29628716,
+    "founder_names": [
+      "abelsm"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Axiom",
+    "batch": "W21",
+    "one_liner": "No-code browser automation a.k.a. RPA for everyone",
+    "hn_url": "https://news.ycombinator.com/item?id=26327717",
+    "hn_points": 160,
+    "hn_comments": 77,
+    "launched_at": "2021-03-03T12:58:02Z",
+    "story_id": 26327717,
+    "founder_names": [
+      "yaseer"
+    ],
+    "tags": [
+      "automation"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Marblism",
+    "batch": "W24",
+    "one_liner": "Generate full-stack web apps from a prompt",
+    "hn_url": "https://news.ycombinator.com/item?id=41568343",
+    "hn_points": 132,
+    "hn_comments": 91,
+    "launched_at": "2024-09-17T15:04:09Z",
+    "story_id": 41568343,
+    "founder_names": [
+      "umussetu"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Metriport",
+    "batch": "S22",
+    "one_liner": "Open-source API for healthcare data exchange",
+    "hn_url": "https://news.ycombinator.com/item?id=40456064",
+    "hn_points": 112,
+    "hn_comments": 101,
+    "launched_at": "2024-05-23T15:38:25Z",
+    "story_id": 40456064,
+    "founder_names": [
+      "dgoncharov"
+    ],
+    "tags": [
+      "API",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Enso",
+    "batch": "S21",
+    "one_liner": "Visual programming and workflow automation tool",
+    "hn_url": "https://news.ycombinator.com/item?id=27748738",
+    "hn_points": 205,
+    "hn_comments": 54,
+    "launched_at": "2021-07-06T14:05:46Z",
+    "story_id": 27748738,
+    "founder_names": [
+      "wdanilo"
+    ],
+    "tags": [
+      "automation"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Zaraz",
+    "batch": "W20",
+    "one_liner": "Use third-party tools without slowing your website",
+    "hn_url": "https://news.ycombinator.com/item?id=26002657",
+    "hn_points": 145,
+    "hn_comments": 84,
+    "launched_at": "2021-02-02T16:08:30Z",
+    "story_id": 26002657,
+    "founder_names": [
+      "yoavm"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Glide",
+    "batch": "W24",
+    "one_liner": "AI-assisted technical design docs",
+    "hn_url": "https://news.ycombinator.com/item?id=39682183",
+    "hn_points": 168,
+    "hn_comments": 72,
+    "launched_at": "2024-03-12T17:21:06Z",
+    "story_id": 39682183,
+    "founder_names": [
+      "robmck"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Raycast",
+    "batch": "W20",
+    "one_liner": "CLI-inspired desktop app for non-coding tasks",
+    "hn_url": "https://news.ycombinator.com/item?id=22466994",
+    "hn_points": 160,
+    "hn_comments": 76,
+    "launched_at": "2020-03-02T18:08:10Z",
+    "story_id": 22466994,
+    "founder_names": [
+      "thomaspaulmann"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Stacksi",
+    "batch": "W21",
+    "one_liner": "Doing Security Questionnaires, So Your Team Isn't",
+    "hn_url": "https://news.ycombinator.com/item?id=26513040",
+    "hn_points": 134,
+    "hn_comments": 89,
+    "launched_at": "2021-03-19T13:28:17Z",
+    "story_id": 26513040,
+    "founder_names": [
+      "emremm"
+    ],
+    "tags": [
+      "AI",
+      "security"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Replicate",
+    "batch": "W20",
+    "one_liner": "Version control for machine learning",
+    "hn_url": "https://news.ycombinator.com/item?id=25150638",
+    "hn_points": 205,
+    "hn_comments": 53,
+    "launched_at": "2020-11-19T15:45:11Z",
+    "story_id": 25150638,
+    "founder_names": [
+      "bfirsh"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Deviceplane",
+    "batch": "W20",
+    "one_liner": "Update and Manage Devices Running Linux",
+    "hn_url": "https://news.ycombinator.com/item?id=22171446",
+    "hn_points": 185,
+    "hn_comments": 63,
+    "launched_at": "2020-01-28T17:16:51Z",
+    "story_id": 22171446,
+    "founder_names": [
+      "joshwget"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Litnerd",
+    "batch": "S21",
+    "one_liner": "Teaching kids to read with the help of live actors",
+    "hn_url": "https://news.ycombinator.com/item?id=28300640",
+    "hn_points": 127,
+    "hn_comments": 92,
+    "launched_at": "2021-08-25T12:13:52Z",
+    "story_id": 28300640,
+    "founder_names": [
+      "Anisa_Mirza"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Chorus Meditation",
+    "batch": "W21",
+    "one_liner": "Meditation for Non-Meditators",
+    "hn_url": "https://news.ycombinator.com/item?id=26103433",
+    "hn_points": 103,
+    "hn_comments": 104,
+    "launched_at": "2021-02-11T16:25:59Z",
+    "story_id": 26103433,
+    "founder_names": [
+      "aliabramovitz"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Helicone.ai",
+    "batch": "W23",
+    "one_liner": "Open-source logging for OpenAI",
+    "hn_url": "https://news.ycombinator.com/item?id=35279155",
+    "hn_points": 166,
+    "hn_comments": 72,
+    "launched_at": "2023-03-23T18:25:45Z",
+    "story_id": 35279155,
+    "founder_names": [
+      "justintorre75"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Cohere",
+    "batch": "S20",
+    "one_liner": "Real-time user support for web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=24930271",
+    "hn_points": 193,
+    "hn_comments": 57,
+    "launched_at": "2020-10-29T13:33:33Z",
+    "story_id": 24930271,
+    "founder_names": [
+      "yunyu"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Glide",
+    "batch": "W19",
+    "one_liner": "Mobile Apps from Google Sheets",
+    "hn_url": "https://news.ycombinator.com/item?id=19163081",
+    "hn_points": 167,
+    "hn_comments": 70,
+    "launched_at": "2019-02-14T16:22:17Z",
+    "story_id": 19163081,
+    "founder_names": [
+      "dvdsgl"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Serra",
+    "batch": "S23",
+    "one_liner": "Open-core, Python-based dbt alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=37119311",
+    "hn_points": 139,
+    "hn_comments": 84,
+    "launched_at": "2023-08-14T10:13:16Z",
+    "story_id": 37119311,
+    "founder_names": [
+      "Alanhlwang"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Theneo",
+    "batch": "W22",
+    "one_liner": "Generate Stripe-Style API Docs",
+    "hn_url": "https://news.ycombinator.com/item?id=30720623",
+    "hn_points": 154,
+    "hn_comments": 76,
+    "launched_at": "2022-03-18T10:59:51Z",
+    "story_id": 30720623,
+    "founder_names": [
+      "arobakid"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Quilt",
+    "batch": "W16",
+    "one_liner": "A versioned data portal for S3",
+    "hn_url": "https://news.ycombinator.com/item?id=21062977",
+    "hn_points": 177,
+    "hn_comments": 64,
+    "launched_at": "2019-09-24T18:06:47Z",
+    "story_id": 21062977,
+    "founder_names": [
+      "akarve"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Nia",
+    "batch": "S25",
+    "one_liner": "Give better context to coding agents",
+    "hn_url": "https://news.ycombinator.com/item?id=46194828",
+    "hn_points": 131,
+    "hn_comments": 87,
+    "launched_at": "2025-12-08T17:10:14Z",
+    "story_id": 46194828,
+    "founder_names": [
+      "jellyotsiro"
+    ],
+    "tags": [
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Argonaut",
+    "batch": "S21",
+    "one_liner": "Easily Deploy Apps and Infra to AWS and GCP",
+    "hn_url": "https://news.ycombinator.com/item?id=36480230",
+    "hn_points": 152,
+    "hn_comments": 76,
+    "launched_at": "2023-06-26T14:41:47Z",
+    "story_id": 36480230,
+    "founder_names": [
+      "suryao"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Roundtable",
+    "batch": "S23",
+    "one_liner": "Using AI to Simulate Surveys",
+    "hn_url": "https://news.ycombinator.com/item?id=36865625",
+    "hn_points": 121,
+    "hn_comments": 91,
+    "launched_at": "2023-07-25T17:07:12Z",
+    "story_id": 36865625,
+    "founder_names": [
+      "timshell"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Golpo",
+    "batch": "S25",
+    "one_liner": "AI-generated explainer videos",
+    "hn_url": "https://news.ycombinator.com/item?id=44891090",
+    "hn_points": 116,
+    "hn_comments": 93,
+    "launched_at": "2025-08-13T17:11:35Z",
+    "story_id": 44891090,
+    "founder_names": [
+      "skar01"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tress",
+    "batch": "W17",
+    "one_liner": "Online community for black women's hairstyles",
+    "hn_url": "https://news.ycombinator.com/item?id=14006159",
+    "hn_points": 171,
+    "hn_comments": 65,
+    "launched_at": "2017-03-31T17:42:45Z",
+    "story_id": 14006159,
+    "founder_names": [
+      "priscahazel"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tandem",
+    "batch": "S19",
+    "one_liner": "A Virtual Office for Remote Teams",
+    "hn_url": "https://news.ycombinator.com/item?id=20585810",
+    "hn_points": 149,
+    "hn_comments": 76,
+    "launched_at": "2019-08-01T16:58:23Z",
+    "story_id": 20585810,
+    "founder_names": [
+      "bernatfortet"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Axdraft",
+    "batch": "W19",
+    "one_liner": "Legal documents for startups in minutes",
+    "hn_url": "https://news.ycombinator.com/item?id=19372623",
+    "hn_points": 172,
+    "hn_comments": 64,
+    "launched_at": "2019-03-12T20:24:47Z",
+    "story_id": 19372623,
+    "founder_names": [
+      "yuriy_zaremba"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Seam",
+    "batch": "S20",
+    "one_liner": "API for IoT Devices",
+    "hn_url": "https://news.ycombinator.com/item?id=36212903",
+    "hn_points": 158,
+    "hn_comments": 71,
+    "launched_at": "2023-06-06T14:00:21Z",
+    "story_id": 36212903,
+    "founder_names": [
+      "__sy__"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Maitai",
+    "batch": "S24",
+    "one_liner": "Self-Optimizing LLM Platform",
+    "hn_url": "https://news.ycombinator.com/item?id=41456552",
+    "hn_points": 149,
+    "hn_comments": 75,
+    "launched_at": "2024-09-05T13:42:43Z",
+    "story_id": 41456552,
+    "founder_names": [
+      "cmdalsanto"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Datasaur",
+    "batch": "W20",
+    "one_liner": "data labeling interface for NLP",
+    "hn_url": "https://news.ycombinator.com/item?id=22506429",
+    "hn_points": 174,
+    "hn_comments": 62,
+    "launched_at": "2020-03-06T19:25:49Z",
+    "story_id": 22506429,
+    "founder_names": [
+      "flyx"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Cardboard",
+    "batch": "W26",
+    "one_liner": "Agentic video editor",
+    "hn_url": "https://news.ycombinator.com/item?id=47170174",
+    "hn_points": 132,
+    "hn_comments": 83,
+    "launched_at": "2026-02-26T18:38:38Z",
+    "story_id": 47170174,
+    "founder_names": [
+      "sxmawl"
+    ],
+    "tags": [
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Penny",
+    "batch": "W17",
+    "one_liner": "a personal finance coach",
+    "hn_url": "https://news.ycombinator.com/item?id=13812878",
+    "hn_points": 114,
+    "hn_comments": 92,
+    "launched_at": "2017-03-07T18:05:11Z",
+    "story_id": 13812878,
+    "founder_names": [
+      "dontmitch"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Metaplane",
+    "batch": "W20",
+    "one_liner": "Datadog for Data",
+    "hn_url": "https://news.ycombinator.com/item?id=29226864",
+    "hn_points": 163,
+    "hn_comments": 67,
+    "launched_at": "2021-11-15T13:05:56Z",
+    "story_id": 29226864,
+    "founder_names": [
+      "kzh_"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Infracost",
+    "batch": "W21",
+    "one_liner": "open-source cloud cost estimator",
+    "hn_url": "https://news.ycombinator.com/item?id=26064588",
+    "hn_points": 190,
+    "hn_comments": 53,
+    "launched_at": "2021-02-08T14:06:27Z",
+    "story_id": 26064588,
+    "founder_names": [
+      "aliscott"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "MindsDB",
+    "batch": "W20",
+    "one_liner": "Machine Learning Inside Your Database",
+    "hn_url": "https://news.ycombinator.com/item?id=26195057",
+    "hn_points": 176,
+    "hn_comments": 60,
+    "launched_at": "2021-02-19T16:55:02Z",
+    "story_id": 26195057,
+    "founder_names": [
+      "adam_carrigan"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "LayerCI",
+    "batch": "S20",
+    "one_liner": "Staging servers that act like (and replace) CI",
+    "hn_url": "https://news.ycombinator.com/item?id=25979941",
+    "hn_points": 174,
+    "hn_comments": 61,
+    "launched_at": "2021-01-31T16:30:51Z",
+    "story_id": 25979941,
+    "founder_names": [
+      "colinchartier"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Riot",
+    "batch": "W20",
+    "one_liner": "Phishing training for your team",
+    "hn_url": "https://news.ycombinator.com/item?id=22676574",
+    "hn_points": 114,
+    "hn_comments": 91,
+    "launched_at": "2020-03-24T17:25:17Z",
+    "story_id": 22676574,
+    "founder_names": [
+      "BenjaminN"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "GPT Driver",
+    "batch": "S21",
+    "one_liner": "End-to-end app testing in natural language",
+    "hn_url": "https://news.ycombinator.com/item?id=41924787",
+    "hn_points": 129,
+    "hn_comments": 82,
+    "launched_at": "2024-10-23T13:18:17Z",
+    "story_id": 41924787,
+    "founder_names": [
+      "cschiller"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Firezone",
+    "batch": "W22",
+    "one_liner": "Zero-trust access platform built on WireGuard",
+    "hn_url": "https://news.ycombinator.com/item?id=41173330",
+    "hn_points": 115,
+    "hn_comments": 89,
+    "launched_at": "2024-08-06T17:52:32Z",
+    "story_id": 41173330,
+    "founder_names": [
+      "jamilbk"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Trigger.dev",
+    "batch": "W23",
+    "one_liner": "Open-source platform to build reliable AI apps",
+    "hn_url": "https://news.ycombinator.com/item?id=45250720",
+    "hn_points": 162,
+    "hn_comments": 65,
+    "launched_at": "2025-09-15T15:20:18Z",
+    "story_id": 45250720,
+    "founder_names": [
+      "eallam"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Azalea Robotics",
+    "batch": "S24",
+    "one_liner": "Baggage-handling robots for airports",
+    "hn_url": "https://news.ycombinator.com/item?id=42390761",
+    "hn_points": 132,
+    "hn_comments": 80,
+    "launched_at": "2024-12-11T18:07:11Z",
+    "story_id": 42390761,
+    "founder_names": [
+      "dmillard"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sparkswap",
+    "batch": "S18",
+    "one_liner": "Buy Bitcoin Instantly over the Lightning Network",
+    "hn_url": "https://news.ycombinator.com/item?id=21016877",
+    "hn_points": 130,
+    "hn_comments": 81,
+    "launched_at": "2019-09-19T15:06:54Z",
+    "story_id": 21016877,
+    "founder_names": [
+      "tg3"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Simple Habit",
+    "batch": "W17",
+    "one_liner": "Spotify for Meditation",
+    "hn_url": "https://news.ycombinator.com/item?id=13366964",
+    "hn_points": 118,
+    "hn_comments": 86,
+    "launched_at": "2017-01-10T17:48:24Z",
+    "story_id": 13366964,
+    "founder_names": [
+      "yunhakim"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "RankScience",
+    "batch": "W17",
+    "one_liner": "Automated Split-Testing for SEO",
+    "hn_url": "https://news.ycombinator.com/item?id=13552862",
+    "hn_points": 121,
+    "hn_comments": 84,
+    "launched_at": "2017-02-02T18:10:01Z",
+    "story_id": 13552862,
+    "founder_names": [
+      "ryanb"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mighty Health",
+    "batch": "S19",
+    "one_liner": "Health coaching for people over 50",
+    "hn_url": "https://news.ycombinator.com/item?id=23574723",
+    "hn_points": 134,
+    "hn_comments": 77,
+    "launched_at": "2020-06-19T14:15:12Z",
+    "story_id": 23574723,
+    "founder_names": [
+      "minibronco88"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Fortress",
+    "batch": "S24",
+    "one_liner": "Database platform for multi-tenant SaaS",
+    "hn_url": "https://news.ycombinator.com/item?id=41426998",
+    "hn_points": 121,
+    "hn_comments": 82,
+    "launched_at": "2024-09-02T16:58:40Z",
+    "story_id": 41426998,
+    "founder_names": [
+      "dchu17"
+    ],
+    "tags": [
+      "SaaS",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Voodoo Manufacturing",
+    "batch": "W17",
+    "one_liner": "AWS for Manufacturing",
+    "hn_url": "https://news.ycombinator.com/item?id=13493587",
+    "hn_points": 166,
+    "hn_comments": 59,
+    "launched_at": "2017-01-26T18:00:33Z",
+    "story_id": 13493587,
+    "founder_names": [
+      "jschwartz11"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Solugen",
+    "batch": "W17",
+    "one_liner": "Plant Sugars to Hydrogen Peroxide",
+    "hn_url": "https://news.ycombinator.com/item?id=15553285",
+    "hn_points": 163,
+    "hn_comments": 60,
+    "launched_at": "2017-10-25T19:25:23Z",
+    "story_id": 15553285,
+    "founder_names": [
+      "gchakr"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SafetyWing",
+    "batch": "W18",
+    "one_liner": "A Global Safety Net for Digital Nomads",
+    "hn_url": "https://news.ycombinator.com/item?id=16554015",
+    "hn_points": 157,
+    "hn_comments": 63,
+    "launched_at": "2018-03-09T19:04:25Z",
+    "story_id": 16554015,
+    "founder_names": [
+      "SRasch"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sqreen",
+    "batch": "W18",
+    "one_liner": "Securing Web Apps",
+    "hn_url": "https://news.ycombinator.com/item?id=20215483",
+    "hn_points": 155,
+    "hn_comments": 64,
+    "launched_at": "2019-06-18T17:13:44Z",
+    "story_id": 20215483,
+    "founder_names": [
+      "pierrebetouin"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Reploy",
+    "batch": "S20",
+    "one_liner": "Instant fullstack staging environments for web apps",
+    "hn_url": "https://news.ycombinator.com/item?id=23917956",
+    "hn_points": 114,
+    "hn_comments": 84,
+    "launched_at": "2020-07-22T15:20:54Z",
+    "story_id": 23917956,
+    "founder_names": [
+      "podoman"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Reality Defender",
+    "batch": "W22",
+    "one_liner": "Deepfake Detection Platform",
+    "hn_url": "https://news.ycombinator.com/item?id=30766050",
+    "hn_points": 104,
+    "hn_comments": 88,
+    "launched_at": "2022-03-22T13:49:26Z",
+    "story_id": 30766050,
+    "founder_names": [
+      "bpcrd"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Optic",
+    "batch": "S18",
+    "one_liner": "Automate Routine Programming",
+    "hn_url": "https://news.ycombinator.com/item?id=17560059",
+    "hn_points": 183,
+    "hn_comments": 48,
+    "launched_at": "2018-07-18T16:58:44Z",
+    "story_id": 17560059,
+    "founder_names": [
+      "addcn"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Slite",
+    "batch": "W18",
+    "one_liner": "Note App for Teams",
+    "hn_url": "https://news.ycombinator.com/item?id=16476092",
+    "hn_points": 127,
+    "hn_comments": 76,
+    "launched_at": "2018-02-27T18:03:48Z",
+    "story_id": 16476092,
+    "founder_names": [
+      "christophepas"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "JSX Tool",
+    "batch": "F25",
+    "one_liner": "A Browser Dev-Panel IDE for React",
+    "hn_url": "https://news.ycombinator.com/item?id=45903161",
+    "hn_points": 111,
+    "hn_comments": 83,
+    "launched_at": "2025-11-12T17:43:42Z",
+    "story_id": 45903161,
+    "founder_names": [
+      "jsunderland323"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Release",
+    "batch": "W20",
+    "one_liner": "Staging environments made easy",
+    "hn_url": "https://news.ycombinator.com/item?id=22486031",
+    "hn_points": 150,
+    "hn_comments": 63,
+    "launched_at": "2020-03-04T18:00:07Z",
+    "story_id": 22486031,
+    "founder_names": [
+      "tommy_mcclung"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Slauth",
+    "batch": "S22",
+    "one_liner": "auto-generate secure IAM policies for AWS and GCP",
+    "hn_url": "https://news.ycombinator.com/item?id=38516795",
+    "hn_points": 122,
+    "hn_comments": 77,
+    "launched_at": "2023-12-04T13:10:30Z",
+    "story_id": 38516795,
+    "founder_names": [
+      "DanielSlauth"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Infra",
+    "batch": "W21",
+    "one_liner": "Open-source access management for Kubernetes",
+    "hn_url": "https://news.ycombinator.com/item?id=31410688",
+    "hn_points": 159,
+    "hn_comments": 58,
+    "launched_at": "2022-05-17T13:55:34Z",
+    "story_id": 31410688,
+    "founder_names": [
+      "jmorgan"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tappity",
+    "batch": "S20",
+    "one_liner": "Keeping kids entertained with science",
+    "hn_url": "https://news.ycombinator.com/item?id=24423463",
+    "hn_points": 146,
+    "hn_comments": 64,
+    "launched_at": "2020-09-09T17:31:30Z",
+    "story_id": 24423463,
+    "founder_names": [
+      "tappityapp"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "CodeComplete",
+    "batch": "W23",
+    "one_liner": "Copilot for Enterprise",
+    "hn_url": "https://news.ycombinator.com/item?id=35152851",
+    "hn_points": 138,
+    "hn_comments": 68,
+    "launched_at": "2023-03-14T15:16:16Z",
+    "story_id": 35152851,
+    "founder_names": [
+      "dingliqing53"
+    ],
+    "tags": [
+      "enterprise"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Epsilon3",
+    "batch": "S21",
+    "one_liner": "Software for spacecraft and complex operations",
+    "hn_url": "https://news.ycombinator.com/item?id=27906787",
+    "hn_points": 149,
+    "hn_comments": 62,
+    "launched_at": "2021-07-21T14:31:11Z",
+    "story_id": 27906787,
+    "founder_names": [
+      "llcrabtree"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Webhound",
+    "batch": "S23",
+    "one_liner": "Research agent that builds datasets from the web",
+    "hn_url": "https://news.ycombinator.com/item?id=45373008",
+    "hn_points": 112,
+    "hn_comments": 80,
+    "launched_at": "2025-09-25T14:28:24Z",
+    "story_id": 45373008,
+    "founder_names": [
+      "mfkhalil"
+    ],
+    "tags": [
+      "agent",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "IcePanel",
+    "batch": "W23",
+    "one_liner": "Onboard engineers with explorable system designs",
+    "hn_url": "https://news.ycombinator.com/item?id=34338995",
+    "hn_points": 123,
+    "hn_comments": 74,
+    "launched_at": "2023-01-11T14:46:54Z",
+    "story_id": 34338995,
+    "founder_names": [
+      "JacobShadbolt"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Batch",
+    "batch": "S20",
+    "one_liner": "Replays for event-driven systems",
+    "hn_url": "https://news.ycombinator.com/item?id=24188214",
+    "hn_points": 154,
+    "hn_comments": 58,
+    "launched_at": "2020-08-17T15:33:49Z",
+    "story_id": 24188214,
+    "founder_names": [
+      "dsies"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Stacks",
+    "batch": "S14",
+    "one_liner": "The first SEC-qualified crypto token offering",
+    "hn_url": "https://news.ycombinator.com/item?id=20413420",
+    "hn_points": 134,
+    "hn_comments": 68,
+    "launched_at": "2019-07-11T17:20:39Z",
+    "story_id": 20413420,
+    "founder_names": [
+      "muneeb"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Odigos",
+    "batch": "W23",
+    "one_liner": "Instant distributed tracing for Kubernetes clusters",
+    "hn_url": "https://news.ycombinator.com/item?id=34442603",
+    "hn_points": 162,
+    "hn_comments": 52,
+    "launched_at": "2023-01-19T16:59:52Z",
+    "story_id": 34442603,
+    "founder_names": [
+      "edenfed"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "hotglue",
+    "batch": "S21",
+    "one_liner": "Easy user-facing SaaS integrations",
+    "hn_url": "https://news.ycombinator.com/item?id=27918900",
+    "hn_points": 144,
+    "hn_comments": 61,
+    "launched_at": "2021-07-22T13:57:00Z",
+    "story_id": 27918900,
+    "founder_names": [
+      "hsyyid"
+    ],
+    "tags": [
+      "SaaS"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Rubbrband",
+    "batch": "W23",
+    "one_liner": "Deformity detection for AI-generated images",
+    "hn_url": "https://news.ycombinator.com/item?id=37076693",
+    "hn_points": 104,
+    "hn_comments": 81,
+    "launched_at": "2023-08-10T14:35:25Z",
+    "story_id": 37076693,
+    "founder_names": [
+      "jrmylee"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hypercontext",
+    "batch": "S21",
+    "one_liner": "Meeting notes, actions, and OKRs in one app",
+    "hn_url": "https://news.ycombinator.com/item?id=27882350",
+    "hn_points": 145,
+    "hn_comments": 60,
+    "launched_at": "2021-07-19T13:21:31Z",
+    "story_id": 27882350,
+    "founder_names": [
+      "brennanm"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bitrise",
+    "batch": "W17",
+    "one_liner": "Continuous Integration and Delivery for Mobile Apps",
+    "hn_url": "https://news.ycombinator.com/item?id=13707602",
+    "hn_points": 152,
+    "hn_comments": 56,
+    "launched_at": "2017-02-22T18:07:49Z",
+    "story_id": 13707602,
+    "founder_names": [
+      "thebloodrabbit"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "JumpWire",
+    "batch": "W22",
+    "one_liner": "Easily encrypt customer data in your databases",
+    "hn_url": "https://news.ycombinator.com/item?id=33818183",
+    "hn_points": 109,
+    "hn_comments": 77,
+    "launched_at": "2022-12-01T16:08:20Z",
+    "story_id": 33818183,
+    "founder_names": [
+      "hexedpackets"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "MovingLake",
+    "batch": "S22",
+    "one_liner": "Real-time data connectors for almost anything",
+    "hn_url": "https://news.ycombinator.com/item?id=33359870",
+    "hn_points": 132,
+    "hn_comments": 65,
+    "launched_at": "2022-10-27T16:19:35Z",
+    "story_id": 33359870,
+    "founder_names": [
+      "paezand"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Narrator",
+    "batch": "S19",
+    "one_liner": "a data modeling platform built on a single table",
+    "hn_url": "https://news.ycombinator.com/item?id=24640540",
+    "hn_points": 143,
+    "hn_comments": 59,
+    "launched_at": "2020-09-30T16:30:39Z",
+    "story_id": 24640540,
+    "founder_names": [
+      "cedricd"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hamming",
+    "batch": "S24",
+    "one_liner": "Automated Testing for Voice Agents",
+    "hn_url": "https://news.ycombinator.com/item?id=41257369",
+    "hn_points": 129,
+    "hn_comments": 66,
+    "launched_at": "2024-08-15T15:44:53Z",
+    "story_id": 41257369,
+    "founder_names": [
+      "sumanyusharma"
+    ],
+    "tags": [
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dart",
+    "batch": "W22",
+    "one_liner": "Project management with automatic report generation",
+    "hn_url": "https://news.ycombinator.com/item?id=39442368",
+    "hn_points": 115,
+    "hn_comments": 73,
+    "launched_at": "2024-02-20T15:24:05Z",
+    "story_id": 39442368,
+    "founder_names": [
+      "miladmalek"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mintlify",
+    "batch": "W22",
+    "one_liner": "Maintainable documentation for software teams",
+    "hn_url": "https://news.ycombinator.com/item?id=31740724",
+    "hn_points": 149,
+    "hn_comments": 55,
+    "launched_at": "2022-06-14T15:16:18Z",
+    "story_id": 31740724,
+    "founder_names": [
+      "hahnbee"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Terminal Use",
+    "batch": "W26",
+    "one_liner": "Vercel for filesystem-based agents",
+    "hn_url": "https://news.ycombinator.com/item?id=47311657",
+    "hn_points": 115,
+    "hn_comments": 72,
+    "launched_at": "2026-03-09T16:53:52Z",
+    "story_id": 47311657,
+    "founder_names": [
+      "filipbalucha"
+    ],
+    "tags": [
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Flywheel",
+    "batch": "S25",
+    "one_liner": "Waymo for Excavators",
+    "hn_url": "https://news.ycombinator.com/item?id=45362914",
+    "hn_points": 103,
+    "hn_comments": 78,
+    "launched_at": "2025-09-24T16:48:27Z",
+    "story_id": 45362914,
+    "founder_names": [
+      "jashmota"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "OpenMeter",
+    "batch": "W23",
+    "one_liner": "Real-Time, Open Source Usage Metering",
+    "hn_url": "https://news.ycombinator.com/item?id=36431004",
+    "hn_points": 174,
+    "hn_comments": 42,
+    "launched_at": "2023-06-22T12:19:44Z",
+    "story_id": 36431004,
+    "founder_names": [
+      "hekike"
+    ],
+    "tags": [
+      "open source"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Milk Video",
+    "batch": "W21",
+    "one_liner": "Edit online event recordings quickly",
+    "hn_url": "https://news.ycombinator.com/item?id=26251322",
+    "hn_points": 154,
+    "hn_comments": 52,
+    "launched_at": "2021-02-24T16:00:50Z",
+    "story_id": 26251322,
+    "founder_names": [
+      "rememberlenny"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Needl",
+    "batch": "S22",
+    "one_liner": "Simple search across all your apps",
+    "hn_url": "https://news.ycombinator.com/item?id=34598406",
+    "hn_points": 106,
+    "hn_comments": 75,
+    "launched_at": "2023-01-31T17:36:17Z",
+    "story_id": 34598406,
+    "founder_names": [
+      "MaxKeenan"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Revel",
+    "batch": "S19",
+    "one_liner": "Community for Women over 50",
+    "hn_url": "https://news.ycombinator.com/item?id=21139118",
+    "hn_points": 107,
+    "hn_comments": 74,
+    "launched_at": "2019-10-02T18:00:01Z",
+    "story_id": 21139118,
+    "founder_names": [
+      "lmarrone88"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Py",
+    "batch": "S17",
+    "one_liner": "Learn to Code on the Go",
+    "hn_url": "https://news.ycombinator.com/item?id=14554044",
+    "hn_points": 132,
+    "hn_comments": 61,
+    "launched_at": "2017-06-14T16:57:07Z",
+    "story_id": 14554044,
+    "founder_names": [
+      "derektlo"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Snark  AI",
+    "batch": "S18",
+    "one_liner": "Distributed Low-Cost GPUs for Deep Learning",
+    "hn_url": "https://news.ycombinator.com/item?id=17491604",
+    "hn_points": 122,
+    "hn_comments": 66,
+    "launched_at": "2018-07-09T16:53:34Z",
+    "story_id": 17491604,
+    "founder_names": [
+      "davidbuniat"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Codeparrot",
+    "batch": "W23",
+    "one_liner": "Automated API testing using production traffic",
+    "hn_url": "https://news.ycombinator.com/item?id=35201036",
+    "hn_points": 127,
+    "hn_comments": 63,
+    "launched_at": "2023-03-17T18:35:44Z",
+    "story_id": 35201036,
+    "founder_names": [
+      "royal0203"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Supermedium",
+    "batch": "W18",
+    "one_liner": "A full VR browser for web-based VR content",
+    "hn_url": "https://news.ycombinator.com/item?id=16318151",
+    "hn_points": 114,
+    "hn_comments": 69,
+    "launched_at": "2018-02-06T18:17:30Z",
+    "story_id": 16318151,
+    "founder_names": [
+      "dmarcos"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "CamelQA",
+    "batch": "W24",
+    "one_liner": "AI that tests mobile apps",
+    "hn_url": "https://news.ycombinator.com/item?id=39769412",
+    "hn_points": 141,
+    "hn_comments": 54,
+    "launched_at": "2024-03-20T17:13:07Z",
+    "story_id": 39769412,
+    "founder_names": [
+      "vercantez"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Cactus",
+    "batch": "S25",
+    "one_liner": "AI inference on smartphones",
+    "hn_url": "https://news.ycombinator.com/item?id=45291024",
+    "hn_points": 123,
+    "hn_comments": 63,
+    "launched_at": "2025-09-18T15:40:29Z",
+    "story_id": 45291024,
+    "founder_names": [
+      "HenryNdubuaku"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lion Pose",
+    "batch": "W21",
+    "one_liner": "Safe and effective skin care for people of color",
+    "hn_url": "https://news.ycombinator.com/item?id=32664261",
+    "hn_points": 118,
+    "hn_comments": 65,
+    "launched_at": "2022-08-31T16:10:25Z",
+    "story_id": 32664261,
+    "founder_names": [
+      "nphatak"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Plum Mail",
+    "batch": "S20",
+    "one_liner": "Email alternative for group conversations",
+    "hn_url": "https://news.ycombinator.com/item?id=24237818",
+    "hn_points": 118,
+    "hn_comments": 65,
+    "launched_at": "2020-08-21T19:00:48Z",
+    "story_id": 24237818,
+    "founder_names": [
+      "richardesigns"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "LlamaFarm",
+    "batch": "W22",
+    "one_liner": "Open-source framework for distributed AI",
+    "hn_url": "https://news.ycombinator.com/item?id=45504388",
+    "hn_points": 106,
+    "hn_comments": 71,
+    "launched_at": "2025-10-07T15:30:20Z",
+    "story_id": 45504388,
+    "founder_names": [
+      "mhamann"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Spine Swarm",
+    "batch": "S23",
+    "one_liner": "AI agents that collaborate on a visual canvas",
+    "hn_url": "https://news.ycombinator.com/item?id=47364116",
+    "hn_points": 109,
+    "hn_comments": 69,
+    "launched_at": "2026-03-13T13:22:40Z",
+    "story_id": 47364116,
+    "founder_names": [
+      "a24venka"
+    ],
+    "tags": [
+      "AI",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Matano",
+    "batch": "W23",
+    "one_liner": "Open-Source Security Lake Platform (SIEM) for AWS",
+    "hn_url": "https://news.ycombinator.com/item?id=34505603",
+    "hn_points": 140,
+    "hn_comments": 53,
+    "launched_at": "2023-01-24T16:17:59Z",
+    "story_id": 34505603,
+    "founder_names": [
+      "wizwit999"
+    ],
+    "tags": [
+      "security"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Xkit",
+    "batch": "S18",
+    "one_liner": "OAuth infrastructure as a service",
+    "hn_url": "https://news.ycombinator.com/item?id=24121290",
+    "hn_points": 138,
+    "hn_comments": 54,
+    "launched_at": "2020-08-11T15:25:09Z",
+    "story_id": 24121290,
+    "founder_names": [
+      "tg3"
+    ],
+    "tags": [
+      "infrastructure"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Cotter",
+    "batch": "W20",
+    "one_liner": "Secure One-Click Phone Number Login",
+    "hn_url": "https://news.ycombinator.com/item?id=22538578",
+    "hn_points": 111,
+    "hn_comments": 67,
+    "launched_at": "2020-03-10T19:15:33Z",
+    "story_id": 22538578,
+    "founder_names": [
+      "putrikarunia"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Akiflow",
+    "batch": "S20",
+    "one_liner": "Bring your tasks and calendars together",
+    "hn_url": "https://news.ycombinator.com/item?id=33451584",
+    "hn_points": 105,
+    "hn_comments": 70,
+    "launched_at": "2022-11-03T14:32:13Z",
+    "story_id": 33451584,
+    "founder_names": [
+      "nmnm"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Moonshot Brands",
+    "batch": "W21",
+    "one_liner": "We buy and grow e-commerce companies",
+    "hn_url": "https://news.ycombinator.com/item?id=27154309",
+    "hn_points": 103,
+    "hn_comments": 71,
+    "launched_at": "2021-05-14T13:52:58Z",
+    "story_id": 27154309,
+    "founder_names": [
+      "AllanFischMB"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Journey",
+    "batch": "W21",
+    "one_liner": "a better tool for selling software",
+    "hn_url": "https://news.ycombinator.com/item?id=27233718",
+    "hn_points": 141,
+    "hn_comments": 51,
+    "launched_at": "2021-05-21T13:28:41Z",
+    "story_id": 27233718,
+    "founder_names": [
+      "pclark"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Midship",
+    "batch": "S24",
+    "one_liner": "Turn PDFs, docs, and images into usable data",
+    "hn_url": "https://news.ycombinator.com/item?id=42066500",
+    "hn_points": 121,
+    "hn_comments": 61,
+    "launched_at": "2024-11-06T18:05:55Z",
+    "story_id": 42066500,
+    "founder_names": [
+      "maxmaio"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Svix",
+    "batch": "W21",
+    "one_liner": "Webhooks as a Service",
+    "hn_url": "https://news.ycombinator.com/item?id=27528202",
+    "hn_points": 117,
+    "hn_comments": 63,
+    "launched_at": "2021-06-16T13:19:41Z",
+    "story_id": 27528202,
+    "founder_names": [
+      "tasn"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Memfault",
+    "batch": "W19",
+    "one_liner": "Crashlytics for Firmware",
+    "hn_url": "https://news.ycombinator.com/item?id=20801512",
+    "hn_points": 134,
+    "hn_comments": 54,
+    "launched_at": "2019-08-26T16:59:55Z",
+    "story_id": 20801512,
+    "founder_names": [
+      "fra"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "FlyCode",
+    "batch": "S22",
+    "one_liner": "Let product teams edit web apps without coding",
+    "hn_url": "https://news.ycombinator.com/item?id=32736817",
+    "hn_points": 141,
+    "hn_comments": 50,
+    "launched_at": "2022-09-06T13:28:53Z",
+    "story_id": 32736817,
+    "founder_names": [
+      "JakeVacovec"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lunatic",
+    "batch": "W21",
+    "one_liner": "An Erlang Inspired WebAssembly Platform",
+    "hn_url": "https://news.ycombinator.com/item?id=26367029",
+    "hn_points": 162,
+    "hn_comments": 39,
+    "launched_at": "2021-03-06T12:49:37Z",
+    "story_id": 26367029,
+    "founder_names": [
+      "withtypes"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Depict.ai",
+    "batch": "S20",
+    "one_liner": "Product recommendations for any e-commerce store",
+    "hn_url": "https://news.ycombinator.com/item?id=24252408",
+    "hn_points": 126,
+    "hn_comments": 57,
+    "launched_at": "2020-08-23T15:05:40Z",
+    "story_id": 24252408,
+    "founder_names": [
+      "antonoo"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Explo",
+    "batch": "W20",
+    "one_liner": "Customer-facing dashboards and reports",
+    "hn_url": "https://news.ycombinator.com/item?id=27447086",
+    "hn_points": 112,
+    "hn_comments": 64,
+    "launched_at": "2021-06-09T12:23:58Z",
+    "story_id": 27447086,
+    "founder_names": [
+      "rnvarma"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Greywing",
+    "batch": "W21",
+    "one_liner": "Automated ship operations focused on crew",
+    "hn_url": "https://news.ycombinator.com/item?id=26621266",
+    "hn_points": 131,
+    "hn_comments": 54,
+    "launched_at": "2021-03-29T13:32:28Z",
+    "story_id": 26621266,
+    "founder_names": [
+      "hrishi"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "DevFlight",
+    "batch": "W19",
+    "one_liner": "Helping open-source maintainers make money",
+    "hn_url": "https://news.ycombinator.com/item?id=19037467",
+    "hn_points": 119,
+    "hn_comments": 60,
+    "launched_at": "2019-01-30T17:59:44Z",
+    "story_id": 19037467,
+    "founder_names": [
+      "vbordo"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Inkeep",
+    "batch": "W23",
+    "one_liner": "Copilot for Support (think Cursor for help desks)",
+    "hn_url": "https://news.ycombinator.com/item?id=41697137",
+    "hn_points": 117,
+    "hn_comments": 61,
+    "launched_at": "2024-09-30T13:57:38Z",
+    "story_id": 41697137,
+    "founder_names": [
+      "engomez"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Slai",
+    "batch": "W22",
+    "one_liner": "Build ML models quickly and deploy them as apps",
+    "hn_url": "https://news.ycombinator.com/item?id=30543228",
+    "hn_points": 130,
+    "hn_comments": 54,
+    "launched_at": "2022-03-03T16:39:03Z",
+    "story_id": 30543228,
+    "founder_names": [
+      "Mernit"
+    ],
+    "tags": [
+      "ML"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "MergeQueue",
+    "batch": "S21",
+    "one_liner": "Automate rebasing and merging for your codebase",
+    "hn_url": "https://news.ycombinator.com/item?id=27858013",
+    "hn_points": 122,
+    "hn_comments": 57,
+    "launched_at": "2021-07-16T16:32:32Z",
+    "story_id": 27858013,
+    "founder_names": [
+      "spriha"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dockup",
+    "batch": "W19",
+    "one_liner": "On demand staging environments for dev teams",
+    "hn_url": "https://news.ycombinator.com/item?id=19312584",
+    "hn_points": 133,
+    "hn_comments": 51,
+    "launched_at": "2019-03-05T18:04:37Z",
+    "story_id": 19312584,
+    "founder_names": [
+      "emilsoman"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Artie",
+    "batch": "S23",
+    "one_liner": "Real time data replication to data warehouses",
+    "hn_url": "https://news.ycombinator.com/item?id=36847569",
+    "hn_points": 123,
+    "hn_comments": 56,
+    "launched_at": "2023-07-24T13:21:19Z",
+    "story_id": 36847569,
+    "founder_names": [
+      "tang8330"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Warrant",
+    "batch": "S21",
+    "one_liner": "Authorization and access control as a service",
+    "hn_url": "https://news.ycombinator.com/item?id=32251305",
+    "hn_points": 115,
+    "hn_comments": 60,
+    "launched_at": "2022-07-27T15:02:17Z",
+    "story_id": 32251305,
+    "founder_names": [
+      "akajla"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "FlyCode",
+    "batch": "S22",
+    "one_liner": "Stop losing revenue due to failed payments",
+    "hn_url": "https://news.ycombinator.com/item?id=41994658",
+    "hn_points": 103,
+    "hn_comments": 66,
+    "launched_at": "2024-10-30T13:45:14Z",
+    "story_id": 41994658,
+    "founder_names": [
+      "JakeVacovec"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "GrowthBook",
+    "batch": "W22",
+    "one_liner": "Open-source feature flagging and A/B testing",
+    "hn_url": "https://news.ycombinator.com/item?id=30515940",
+    "hn_points": 148,
+    "hn_comments": 43,
+    "launched_at": "2022-03-01T16:12:50Z",
+    "story_id": 30515940,
+    "founder_names": [
+      "combat_wombat"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sarus",
+    "batch": "W22",
+    "one_liner": "Work on sensitive data with differential privacy",
+    "hn_url": "https://news.ycombinator.com/item?id=30698215",
+    "hn_points": 136,
+    "hn_comments": 49,
+    "launched_at": "2022-03-16T13:00:57Z",
+    "story_id": 30698215,
+    "founder_names": [
+      "maximeago"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "EnvKey",
+    "batch": "W18",
+    "one_liner": "Smart Configuration and Secrets Management",
+    "hn_url": "https://news.ycombinator.com/item?id=16569534",
+    "hn_points": 108,
+    "hn_comments": 63,
+    "launched_at": "2018-03-12T17:01:37Z",
+    "story_id": 16569534,
+    "founder_names": [
+      "danenania"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Haiku",
+    "batch": "W18",
+    "one_liner": "Build and Design Cross-Platform UIs and Animations",
+    "hn_url": "https://news.ycombinator.com/item?id=16360995",
+    "hn_points": 127,
+    "hn_comments": 53,
+    "launched_at": "2018-02-12T19:00:23Z",
+    "story_id": 16360995,
+    "founder_names": [
+      "zackbrown"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Nullstone",
+    "batch": "W22",
+    "one_liner": "An easier way to deploy and manage cloud apps",
+    "hn_url": "https://news.ycombinator.com/item?id=37391272",
+    "hn_points": 105,
+    "hn_comments": 64,
+    "launched_at": "2023-09-05T13:21:13Z",
+    "story_id": 37391272,
+    "founder_names": [
+      "bsick7"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Decentro",
+    "batch": "S20",
+    "one_liner": "APIs for Banking Integrations in India",
+    "hn_url": "https://news.ycombinator.com/item?id=24905977",
+    "hn_points": 143,
+    "hn_comments": 44,
+    "launched_at": "2020-10-27T10:19:06Z",
+    "story_id": 24905977,
+    "founder_names": [
+      "rohittaneja"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sunsama",
+    "batch": "W19",
+    "one_liner": "Daily Planner for Busy People",
+    "hn_url": "https://news.ycombinator.com/item?id=24990238",
+    "hn_points": 107,
+    "hn_comments": 62,
+    "launched_at": "2020-11-04T16:06:36Z",
+    "story_id": 24990238,
+    "founder_names": [
+      "priyadarshy"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Epihub",
+    "batch": "S20",
+    "one_liner": "Shopify for teaching online",
+    "hn_url": "https://news.ycombinator.com/item?id=24215376",
+    "hn_points": 136,
+    "hn_comments": 47,
+    "launched_at": "2020-08-19T19:50:44Z",
+    "story_id": 24215376,
+    "founder_names": [
+      "urs"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Societies.io",
+    "batch": "W25",
+    "one_liner": "AI simulations of your target audience",
+    "hn_url": "https://news.ycombinator.com/item?id=44755654",
+    "hn_points": 114,
+    "hn_comments": 58,
+    "launched_at": "2025-08-01T12:13:12Z",
+    "story_id": 44755654,
+    "founder_names": [
+      "p-sharpe"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Tint",
+    "batch": "W21",
+    "one_liner": "Embed insurance into any product",
+    "hn_url": "https://news.ycombinator.com/item?id=26026526",
+    "hn_points": 133,
+    "hn_comments": 48,
+    "launched_at": "2021-02-04T16:02:28Z",
+    "story_id": 26026526,
+    "founder_names": [
+      "mriolfi"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Freshpaint",
+    "batch": "S19",
+    "one_liner": "an automated, retroactive Segment alternative",
+    "hn_url": "https://news.ycombinator.com/item?id=22384680",
+    "hn_points": 119,
+    "hn_comments": 55,
+    "launched_at": "2020-02-21T17:06:32Z",
+    "story_id": 22384680,
+    "founder_names": [
+      "malisper"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Promptless",
+    "batch": "W25",
+    "one_liner": "Automatic updates for customer-facing docs",
+    "hn_url": "https://news.ycombinator.com/item?id=43092522",
+    "hn_points": 107,
+    "hn_comments": 61,
+    "launched_at": "2025-02-18T17:30:39Z",
+    "story_id": 43092522,
+    "founder_names": [
+      "prithvi2206"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dittofeed",
+    "batch": "S22",
+    "one_liner": "open-source customer engagement platform",
+    "hn_url": "https://news.ycombinator.com/item?id=36061344",
+    "hn_points": 135,
+    "hn_comments": 46,
+    "launched_at": "2023-05-24T17:24:05Z",
+    "story_id": 36061344,
+    "founder_names": [
+      "maxthegeek1"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Livedocs",
+    "batch": "W22",
+    "one_liner": "Live data in your documents, without code",
+    "hn_url": "https://news.ycombinator.com/item?id=30735058",
+    "hn_points": 129,
+    "hn_comments": 49,
+    "launched_at": "2022-03-19T16:25:10Z",
+    "story_id": 30735058,
+    "founder_names": [
+      "arsalanb"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lume",
+    "batch": "W23",
+    "one_liner": "Generate custom data integrations with AI",
+    "hn_url": "https://news.ycombinator.com/item?id=35232171",
+    "hn_points": 115,
+    "hn_comments": 56,
+    "launched_at": "2023-03-20T14:40:35Z",
+    "story_id": 35232171,
+    "founder_names": [
+      "nmachado"
+    ],
+    "tags": [
+      "AI",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "MagicBell",
+    "batch": "W21",
+    "one_liner": "embedded notification system for your product",
+    "hn_url": "https://news.ycombinator.com/item?id=26037645",
+    "hn_points": 113,
+    "hn_comments": 57,
+    "launched_at": "2021-02-05T15:56:06Z",
+    "story_id": 26037645,
+    "founder_names": [
+      "unamashana"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "OctaPulse",
+    "batch": "W26",
+    "one_liner": "Robotics and computer vision for fish farming",
+    "hn_url": "https://news.ycombinator.com/item?id=47220320",
+    "hn_points": 111,
+    "hn_comments": 58,
+    "launched_at": "2026-03-02T16:39:21Z",
+    "story_id": 47220320,
+    "founder_names": [
+      "rohxnsxngh"
+    ],
+    "tags": [
+      "robotics"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Talc AI",
+    "batch": "S23",
+    "one_liner": "Test Sets for AI",
+    "hn_url": "https://news.ycombinator.com/item?id=39042093",
+    "hn_points": 132,
+    "hn_comments": 47,
+    "launched_at": "2024-01-18T14:32:55Z",
+    "story_id": 39042093,
+    "founder_names": [
+      "maxrmk"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hightouch",
+    "batch": "S19",
+    "one_liner": "Sync data from data warehouses to SaaS tools",
+    "hn_url": "https://news.ycombinator.com/item?id=29188544",
+    "hn_points": 132,
+    "hn_comments": 47,
+    "launched_at": "2021-11-11T15:02:50Z",
+    "story_id": 29188544,
+    "founder_names": [
+      "kashishg"
+    ],
+    "tags": [
+      "SaaS",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "OpenUnit",
+    "batch": "W20",
+    "one_liner": "Software for managing self-storage facilities",
+    "hn_url": "https://news.ycombinator.com/item?id=24433031",
+    "hn_points": 133,
+    "hn_comments": 46,
+    "launched_at": "2020-09-10T15:09:37Z",
+    "story_id": 24433031,
+    "founder_names": [
+      "taylorcooney"
+    ],
+    "tags": [
+      "RAG"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dashdive",
+    "batch": "W23",
+    "one_liner": "Track your cloud costs precisely",
+    "hn_url": "https://news.ycombinator.com/item?id=39178753",
+    "hn_points": 121,
+    "hn_comments": 52,
+    "launched_at": "2024-01-29T17:03:18Z",
+    "story_id": 39178753,
+    "founder_names": [
+      "ashug"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Awesomic",
+    "batch": "S21",
+    "one_liner": "Get design tasks done with 24-hour turnaround",
+    "hn_url": "https://news.ycombinator.com/item?id=28199089",
+    "hn_points": 111,
+    "hn_comments": 57,
+    "launched_at": "2021-08-16T15:18:08Z",
+    "story_id": 28199089,
+    "founder_names": [
+      "Pavlyshyna"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Compound",
+    "batch": "S19",
+    "one_liner": "helping employees understand equity compensation",
+    "hn_url": "https://news.ycombinator.com/item?id=20615760",
+    "hn_points": 140,
+    "hn_comments": 42,
+    "launched_at": "2019-08-05T16:59:35Z",
+    "story_id": 20615760,
+    "founder_names": [
+      "jrdngonen"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "ElectroNeek",
+    "batch": "W20",
+    "one_liner": "Automatically find and automate routine work",
+    "hn_url": "https://news.ycombinator.com/item?id=23770214",
+    "hn_points": 132,
+    "hn_comments": 46,
+    "launched_at": "2020-07-08T14:30:15Z",
+    "story_id": 23770214,
+    "founder_names": [
+      "Digitaltzar"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Moonglow",
+    "batch": "S24",
+    "one_liner": "Serverless Jupyter Notebooks",
+    "hn_url": "https://news.ycombinator.com/item?id=41329750",
+    "hn_points": 112,
+    "hn_comments": 56,
+    "launched_at": "2024-08-23T15:20:20Z",
+    "story_id": 41329750,
+    "founder_names": [
+      "tmychow"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Humanloop",
+    "batch": "S20",
+    "one_liner": "A platform to annotate, train and deploy NLP",
+    "hn_url": "https://news.ycombinator.com/item?id=23987353",
+    "hn_points": 157,
+    "hn_comments": 33,
+    "launched_at": "2020-07-29T14:57:53Z",
+    "story_id": 23987353,
+    "founder_names": [
+      "jordn"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SiLogy",
+    "batch": "W24",
+    "one_liner": "Chip design and verification in the cloud",
+    "hn_url": "https://news.ycombinator.com/item?id=39632872",
+    "hn_points": 115,
+    "hn_comments": 54,
+    "launched_at": "2024-03-07T18:38:22Z",
+    "story_id": 39632872,
+    "founder_names": [
+      "pkkim"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "NextDrop Technologies",
+    "batch": "S17",
+    "one_liner": "Water Marketplace for Urban India",
+    "hn_url": "https://news.ycombinator.com/item?id=15100051",
+    "hn_points": 114,
+    "hn_comments": 54,
+    "launched_at": "2017-08-25T16:55:10Z",
+    "story_id": 15100051,
+    "founder_names": [
+      "anusridharan"
+    ],
+    "tags": [
+      "marketplace"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Drifting in Space",
+    "batch": "W22",
+    "one_liner": "A server process for every user",
+    "hn_url": "https://news.ycombinator.com/item?id=30502978",
+    "hn_points": 108,
+    "hn_comments": 57,
+    "launched_at": "2022-02-28T18:10:42Z",
+    "story_id": 30502978,
+    "founder_names": [
+      "paulgb"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Patterns",
+    "batch": "S21",
+    "one_liner": "A much faster way to build and deploy data apps",
+    "hn_url": "https://news.ycombinator.com/item?id=33801314",
+    "hn_points": 149,
+    "hn_comments": 36,
+    "launched_at": "2022-11-30T14:37:36Z",
+    "story_id": 33801314,
+    "founder_names": [
+      "kvh"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "API Tracker",
+    "batch": "W20",
+    "one_liner": "Track and manage the APIs you use",
+    "hn_url": "https://news.ycombinator.com/item?id=22358338",
+    "hn_points": 125,
+    "hn_comments": 48,
+    "launched_at": "2020-02-18T18:00:32Z",
+    "story_id": 22358338,
+    "founder_names": [
+      "cameroncooper"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lang",
+    "batch": "S19",
+    "one_liner": "Internationalization Built for Devs",
+    "hn_url": "https://news.ycombinator.com/item?id=20627137",
+    "hn_points": 128,
+    "hn_comments": 46,
+    "launched_at": "2019-08-06T17:04:09Z",
+    "story_id": 20627137,
+    "founder_names": [
+      "cyrieu"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "JITX",
+    "batch": "S18",
+    "one_liner": "Automating Circuit Board Design",
+    "hn_url": "https://news.ycombinator.com/item?id=17654865",
+    "hn_points": 112,
+    "hn_comments": 54,
+    "launched_at": "2018-07-31T17:01:06Z",
+    "story_id": 17654865,
+    "founder_names": [
+      "DHaldane"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "June",
+    "batch": "W21",
+    "one_liner": "Two-click analytics reports on top of Segment data",
+    "hn_url": "https://news.ycombinator.com/item?id=26155327",
+    "hn_points": 125,
+    "hn_comments": 47,
+    "launched_at": "2021-02-16T16:15:25Z",
+    "story_id": 26155327,
+    "founder_names": [
+      "0xferruccio"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Courier",
+    "batch": "S19",
+    "one_liner": "Developer infrastructure for product notifications",
+    "hn_url": "https://news.ycombinator.com/item?id=30527757",
+    "hn_points": 103,
+    "hn_comments": 58,
+    "launched_at": "2022-03-02T14:36:37Z",
+    "story_id": 30527757,
+    "founder_names": [
+      "troygoode"
+    ],
+    "tags": [
+      "developer",
+      "infrastructure"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Synth",
+    "batch": "S20",
+    "one_liner": "Realistic, synthetic test data for your app",
+    "hn_url": "https://news.ycombinator.com/item?id=24198114",
+    "hn_points": 121,
+    "hn_comments": 48,
+    "launched_at": "2020-08-18T13:09:03Z",
+    "story_id": 24198114,
+    "founder_names": [
+      "openquery"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Embedder",
+    "batch": "S25",
+    "one_liner": "Claude code for embedded software",
+    "hn_url": "https://news.ycombinator.com/item?id=44915206",
+    "hn_points": 113,
+    "hn_comments": 52,
+    "launched_at": "2025-08-15T17:38:05Z",
+    "story_id": 44915206,
+    "founder_names": [
+      "bobwei1"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Vellum",
+    "batch": "W23",
+    "one_liner": "Dev Platform for LLM Apps",
+    "hn_url": "https://news.ycombinator.com/item?id=35042836",
+    "hn_points": 136,
+    "hn_comments": 40,
+    "launched_at": "2023-03-06T16:20:38Z",
+    "story_id": 35042836,
+    "founder_names": [
+      "noaflaherty"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Idemeum",
+    "batch": "S21",
+    "one_liner": "Passwordless access to apps and infrastructure",
+    "hn_url": "https://news.ycombinator.com/item?id=33346183",
+    "hn_points": 108,
+    "hn_comments": 54,
+    "launched_at": "2022-10-26T16:39:01Z",
+    "story_id": 33346183,
+    "founder_names": [
+      "npoturnak"
+    ],
+    "tags": [
+      "infrastructure"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Abbot",
+    "batch": "S21",
+    "one_liner": "ChatOps as a Service, inspired by GitHub's Hubot",
+    "hn_url": "https://news.ycombinator.com/item?id=27974077",
+    "hn_points": 143,
+    "hn_comments": 36,
+    "launched_at": "2021-07-27T16:07:47Z",
+    "story_id": 27974077,
+    "founder_names": [
+      "icey"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Speedscale",
+    "batch": "S20",
+    "one_liner": "Automatically create tests from actual traffic",
+    "hn_url": "https://news.ycombinator.com/item?id=24060799",
+    "hn_points": 137,
+    "hn_comments": 39,
+    "launched_at": "2020-08-05T13:59:27Z",
+    "story_id": 24060799,
+    "founder_names": [
+      "Inchull"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Data Mechanics",
+    "batch": "S19",
+    "one_liner": "The Simplest Way to Run Apache Spark",
+    "hn_url": "https://news.ycombinator.com/item?id=23142831",
+    "hn_points": 131,
+    "hn_comments": 42,
+    "launched_at": "2020-05-11T14:58:37Z",
+    "story_id": 23142831,
+    "founder_names": [
+      "jstephan"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Sematic",
+    "batch": "S22",
+    "one_liner": "Open-source framework to build ML pipelines faster",
+    "hn_url": "https://news.ycombinator.com/item?id=32413070",
+    "hn_points": 121,
+    "hn_comments": 47,
+    "launched_at": "2022-08-10T14:56:50Z",
+    "story_id": 32413070,
+    "founder_names": [
+      "neutralino1"
+    ],
+    "tags": [
+      "ML"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Uplift",
+    "batch": "S25",
+    "one_liner": "Voice models for under-served languages",
+    "hn_url": "https://news.ycombinator.com/item?id=44950661",
+    "hn_points": 113,
+    "hn_comments": 51,
+    "launched_at": "2025-08-19T12:10:09Z",
+    "story_id": 44950661,
+    "founder_names": [
+      "zaidqureshi"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Relace",
+    "batch": "W23",
+    "one_liner": "Models for fast and reliable codegen",
+    "hn_url": "https://news.ycombinator.com/item?id=44108206",
+    "hn_points": 111,
+    "hn_comments": 51,
+    "launched_at": "2025-05-27T15:59:20Z",
+    "story_id": 44108206,
+    "founder_names": [
+      "eborgnia"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Jiga",
+    "batch": "W21",
+    "one_liner": "Faster custom parts for hardware products",
+    "hn_url": "https://news.ycombinator.com/item?id=26066276",
+    "hn_points": 111,
+    "hn_comments": 51,
+    "launched_at": "2021-02-08T16:03:42Z",
+    "story_id": 26066276,
+    "founder_names": [
+      "Assafgeuz"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "VibeFlow",
+    "batch": "S25",
+    "one_liner": "Web app generator with visual, editable workflows",
+    "hn_url": "https://news.ycombinator.com/item?id=45084759",
+    "hn_points": 103,
+    "hn_comments": 55,
+    "launched_at": "2025-08-31T17:00:19Z",
+    "story_id": 45084759,
+    "founder_names": [
+      "alepeak"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "June",
+    "batch": "W21",
+    "one_liner": "Product Analytics for B2B SaaS Companies",
+    "hn_url": "https://news.ycombinator.com/item?id=36505743",
+    "hn_points": 115,
+    "hn_comments": 48,
+    "launched_at": "2023-06-28T12:57:11Z",
+    "story_id": 36505743,
+    "founder_names": [
+      "0xferruccio"
+    ],
+    "tags": [
+      "B2B",
+      "SaaS"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Datree",
+    "batch": "W20",
+    "one_liner": "Best practices and security policies on each commit",
+    "hn_url": "https://news.ycombinator.com/item?id=22536228",
+    "hn_points": 106,
+    "hn_comments": 52,
+    "launched_at": "2020-03-10T15:26:27Z",
+    "story_id": 22536228,
+    "founder_names": [
+      "shimont"
+    ],
+    "tags": [
+      "security"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Hubble",
+    "batch": "S20",
+    "one_liner": "Monitor data quality inside data warehouses",
+    "hn_url": "https://news.ycombinator.com/item?id=24224355",
+    "hn_points": 125,
+    "hn_comments": 42,
+    "launched_at": "2020-08-20T15:38:28Z",
+    "story_id": 24224355,
+    "founder_names": [
+      "oliver101"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Nextmv",
+    "batch": "W20",
+    "one_liner": "Developer-friendly logistics algorithms",
+    "hn_url": "https://news.ycombinator.com/item?id=22630426",
+    "hn_points": 142,
+    "hn_comments": 33,
+    "launched_at": "2020-03-19T18:50:07Z",
+    "story_id": 22630426,
+    "founder_names": [
+      "mooneyc6"
+    ],
+    "tags": [
+      "developer"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Berbix",
+    "batch": "S18",
+    "one_liner": "Instant ID checks to fight fraud and stay compliant",
+    "hn_url": "https://news.ycombinator.com/item?id=21597169",
+    "hn_points": 106,
+    "hn_comments": 51,
+    "launched_at": "2019-11-21T18:00:02Z",
+    "story_id": 21597169,
+    "founder_names": [
+      "ericlevine"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Buildt",
+    "batch": "W23",
+    "one_liner": "Conversational semantic code search",
+    "hn_url": "https://news.ycombinator.com/item?id=35000562",
+    "hn_points": 123,
+    "hn_comments": 42,
+    "launched_at": "2023-03-02T19:26:19Z",
+    "story_id": 35000562,
+    "founder_names": [
+      "Buoy"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "OneGraph",
+    "batch": "S18",
+    "one_liner": "Build API Integrations with GraphQL",
+    "hn_url": "https://news.ycombinator.com/item?id=17602951",
+    "hn_points": 130,
+    "hn_comments": 38,
+    "launched_at": "2018-07-24T17:05:49Z",
+    "story_id": 17602951,
+    "founder_names": [
+      "sgrove"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Aquarium",
+    "batch": "S20",
+    "one_liner": "Improve Your ML Dataset Quality",
+    "hn_url": "https://news.ycombinator.com/item?id=23821502",
+    "hn_points": 167,
+    "hn_comments": 19,
+    "launched_at": "2020-07-13T15:05:41Z",
+    "story_id": 23821502,
+    "founder_names": [
+      "pgao"
+    ],
+    "tags": [
+      "ML",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Castodia",
+    "batch": "W20",
+    "one_liner": "Populate Google Sheets from databases",
+    "hn_url": "https://news.ycombinator.com/item?id=22567557",
+    "hn_points": 103,
+    "hn_comments": 51,
+    "launched_at": "2020-03-13T14:36:28Z",
+    "story_id": 22567557,
+    "founder_names": [
+      "jimmyechan"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Osmind",
+    "batch": "S20",
+    "one_liner": "software for better mental health therapies",
+    "hn_url": "https://news.ycombinator.com/item?id=24777360",
+    "hn_points": 122,
+    "hn_comments": 41,
+    "launched_at": "2020-10-14T15:08:28Z",
+    "story_id": 24777360,
+    "founder_names": [
+      "luciayhuang"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Virtually",
+    "batch": "S20",
+    "one_liner": "Build live online trainings",
+    "hn_url": "https://news.ycombinator.com/item?id=24049421",
+    "hn_points": 122,
+    "hn_comments": 41,
+    "launched_at": "2020-08-04T12:54:19Z",
+    "story_id": 24049421,
+    "founder_names": [
+      "ishbaid"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Emerge",
+    "batch": "W21",
+    "one_liner": "Monitor and reduce iOS app size",
+    "hn_url": "https://news.ycombinator.com/item?id=26014180",
+    "hn_points": 115,
+    "hn_comments": 44,
+    "launched_at": "2021-02-03T15:03:43Z",
+    "story_id": 26014180,
+    "founder_names": [
+      "sond813"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Meticulous",
+    "batch": "S21",
+    "one_liner": "Catch JavaScript errors before they hit prod",
+    "hn_url": "https://news.ycombinator.com/item?id=31236066",
+    "hn_points": 122,
+    "hn_comments": 40,
+    "launched_at": "2022-05-02T15:06:49Z",
+    "story_id": 31236066,
+    "founder_names": [
+      "Gabriel_h"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mutiny",
+    "batch": "S18",
+    "one_liner": "Website Personalization for B2B Companies",
+    "hn_url": "https://news.ycombinator.com/item?id=21346414",
+    "hn_points": 105,
+    "hn_comments": 48,
+    "launched_at": "2019-10-24T16:51:12Z",
+    "story_id": 21346414,
+    "founder_names": [
+      "jalehr"
+    ],
+    "tags": [
+      "B2B"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "UpTrain",
+    "batch": "W23",
+    "one_liner": "Open-source performance monitoring for ML models",
+    "hn_url": "https://news.ycombinator.com/item?id=35069839",
+    "hn_points": 138,
+    "hn_comments": 31,
+    "launched_at": "2023-03-08T15:05:52Z",
+    "story_id": 35069839,
+    "founder_names": [
+      "vvipgupta"
+    ],
+    "tags": [
+      "ML"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Metlo",
+    "batch": "S21",
+    "one_liner": "Open-source software for securing your APIs",
+    "hn_url": "https://news.ycombinator.com/item?id=33534856",
+    "hn_points": 130,
+    "hn_comments": 34,
+    "launched_at": "2022-11-09T17:25:39Z",
+    "story_id": 33534856,
+    "founder_names": [
+      "shrisukhani"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Prequel",
+    "batch": "W21",
+    "one_liner": "Sync data to your customer\u2019s data warehouse",
+    "hn_url": "https://news.ycombinator.com/item?id=32984103",
+    "hn_points": 118,
+    "hn_comments": 40,
+    "launched_at": "2022-09-26T15:07:19Z",
+    "story_id": 32984103,
+    "founder_names": [
+      "ctc24"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "SubImage",
+    "batch": "W25",
+    "one_liner": "See your infra from an attacker's perspective",
+    "hn_url": "https://news.ycombinator.com/item?id=43161332",
+    "hn_points": 135,
+    "hn_comments": 31,
+    "launched_at": "2025-02-24T16:22:10Z",
+    "story_id": 43161332,
+    "founder_names": [
+      "alexchantavy"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mito",
+    "batch": "S20",
+    "one_liner": "Edit a spreadsheet, generate Python",
+    "hn_url": "https://news.ycombinator.com/item?id=32723766",
+    "hn_points": 140,
+    "hn_comments": 27,
+    "launched_at": "2022-09-05T12:54:59Z",
+    "story_id": 32723766,
+    "founder_names": [
+      "narush"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Lucidic",
+    "batch": "W25",
+    "one_liner": "Debug, test, and evaluate AI agents in production",
+    "hn_url": "https://news.ycombinator.com/item?id=44735843",
+    "hn_points": 116,
+    "hn_comments": 39,
+    "launched_at": "2025-07-30T15:54:02Z",
+    "story_id": 44735843,
+    "founder_names": [
+      "AbhinavX"
+    ],
+    "tags": [
+      "AI",
+      "agent"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Okay",
+    "batch": "W20",
+    "one_liner": "Analytics for engineering teams",
+    "hn_url": "https://news.ycombinator.com/item?id=27461564",
+    "hn_points": 123,
+    "hn_comments": 35,
+    "launched_at": "2021-06-10T15:04:10Z",
+    "story_id": 27461564,
+    "founder_names": [
+      "tonioab"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Syndetic",
+    "batch": "W20",
+    "one_liner": "Software for explaining datasets",
+    "hn_url": "https://news.ycombinator.com/item?id=22406560",
+    "hn_points": 124,
+    "hn_comments": 34,
+    "launched_at": "2020-02-24T18:08:26Z",
+    "story_id": 22406560,
+    "founder_names": [
+      "stevepike"
+    ],
+    "tags": [
+      "AI",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Travelchime",
+    "batch": "W19",
+    "one_liner": "Doc for travel planning with friends",
+    "hn_url": "https://news.ycombinator.com/item?id=19383941",
+    "hn_points": 108,
+    "hn_comments": 42,
+    "launched_at": "2019-03-13T21:20:11Z",
+    "story_id": 19383941,
+    "founder_names": [
+      "phsource"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Orbiter",
+    "batch": "W20",
+    "one_liner": "Autonomous data monitoring for non-engineers",
+    "hn_url": "https://news.ycombinator.com/item?id=22512972",
+    "hn_points": 107,
+    "hn_comments": 41,
+    "launched_at": "2020-03-07T18:04:27Z",
+    "story_id": 22512972,
+    "founder_names": [
+      "zhangwins"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Shaped",
+    "batch": "W22",
+    "one_liner": "AI-Powered Recommendations and Search",
+    "hn_url": "https://news.ycombinator.com/item?id=41235733",
+    "hn_points": 121,
+    "hn_comments": 32,
+    "launched_at": "2024-08-13T14:19:21Z",
+    "story_id": 41235733,
+    "founder_names": [
+      "tullie"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "zeroheight",
+    "batch": "S19",
+    "one_liner": "UX design docs that stay up-to-date",
+    "hn_url": "https://news.ycombinator.com/item?id=21409845",
+    "hn_points": 109,
+    "hn_comments": 38,
+    "launched_at": "2019-10-31T15:29:58Z",
+    "story_id": 21409845,
+    "founder_names": [
+      "jdelafargue"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Flowdash",
+    "batch": "W20",
+    "one_liner": "Human-in-the-loop tooling for operations teams",
+    "hn_url": "https://news.ycombinator.com/item?id=22476985",
+    "hn_points": 119,
+    "hn_comments": 32,
+    "launched_at": "2020-03-03T17:59:40Z",
+    "story_id": 22476985,
+    "founder_names": [
+      "nickgervasi"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Elementary",
+    "batch": "W22",
+    "one_liner": "Open-source data observability",
+    "hn_url": "https://news.ycombinator.com/item?id=30555914",
+    "hn_points": 122,
+    "hn_comments": 30,
+    "launched_at": "2022-03-04T15:12:41Z",
+    "story_id": 30555914,
+    "founder_names": [
+      "Maayansa"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dataform",
+    "batch": "W18",
+    "one_liner": "Build Reliable SQL Data Pipelines as a Team",
+    "hn_url": "https://news.ycombinator.com/item?id=20441736",
+    "hn_points": 110,
+    "hn_comments": 36,
+    "launched_at": "2019-07-15T15:29:59Z",
+    "story_id": 20441736,
+    "founder_names": [
+      "G2H"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Haystack",
+    "batch": "W21",
+    "one_liner": "Engineering analytics that don\u2019t suck",
+    "hn_url": "https://news.ycombinator.com/item?id=26413311",
+    "hn_points": 104,
+    "hn_comments": 39,
+    "launched_at": "2021-03-10T16:54:00Z",
+    "story_id": 26413311,
+    "founder_names": [
+      "lovedev"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Onfolk",
+    "batch": "S21",
+    "one_liner": "Modern HR and Payroll in One Place (For the UK)",
+    "hn_url": "https://news.ycombinator.com/item?id=27830978",
+    "hn_points": 113,
+    "hn_comments": 34,
+    "launched_at": "2021-07-14T08:47:55Z",
+    "story_id": 27830978,
+    "founder_names": [
+      "4thstreet"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Dots",
+    "batch": "S21",
+    "one_liner": "Bot Builder for Discord",
+    "hn_url": "https://news.ycombinator.com/item?id=33641655",
+    "hn_points": 112,
+    "hn_comments": 34,
+    "launched_at": "2022-11-17T16:49:41Z",
+    "story_id": 33641655,
+    "founder_names": [
+      "sanketc"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Mozart Data",
+    "batch": "S20",
+    "one_liner": "One-stop shop for a modern data pipeline",
+    "hn_url": "https://news.ycombinator.com/item?id=27182720",
+    "hn_points": 106,
+    "hn_comments": 37,
+    "launched_at": "2021-05-17T12:35:02Z",
+    "story_id": 27182720,
+    "founder_names": [
+      "pfduke02"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Trexo Robotics",
+    "batch": "W19",
+    "one_liner": "Robotic Legs for Kids with Cerebral Palsy",
+    "hn_url": "https://news.ycombinator.com/item?id=19780127",
+    "hn_points": 132,
+    "hn_comments": 22,
+    "launched_at": "2019-04-29T16:56:11Z",
+    "story_id": 19780127,
+    "founder_names": [
+      "manmeet"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Patchwork",
+    "batch": "S24",
+    "one_liner": "Automatically add structured logs to your code",
+    "hn_url": "https://news.ycombinator.com/item?id=41391931",
+    "hn_points": 104,
+    "hn_comments": 35,
+    "launched_at": "2024-08-29T15:37:42Z",
+    "story_id": 41391931,
+    "founder_names": [
+      "benjaminfh"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "BuildFlow",
+    "batch": "W23",
+    "one_liner": "The FastAPI of data pipelines",
+    "hn_url": "https://news.ycombinator.com/item?id=35169256",
+    "hn_points": 104,
+    "hn_comments": 35,
+    "launched_at": "2023-03-15T14:55:01Z",
+    "story_id": 35169256,
+    "founder_names": [
+      "calebtv"
+    ],
+    "tags": [
+      "API",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Ploomber",
+    "batch": "W22",
+    "one_liner": "Quickly deploy data pipelines from Jupyter/VSCode",
+    "hn_url": "https://news.ycombinator.com/item?id=30195191",
+    "hn_points": 126,
+    "hn_comments": 23,
+    "launched_at": "2022-02-03T17:12:01Z",
+    "story_id": 30195191,
+    "founder_names": [
+      "edublancas"
+    ],
+    "tags": [
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Pyq",
+    "batch": "W23",
+    "one_liner": "Simple APIs to Popular AI Models",
+    "hn_url": "https://news.ycombinator.com/item?id=34971883",
+    "hn_points": 123,
+    "hn_comments": 24,
+    "launched_at": "2023-02-28T17:14:59Z",
+    "story_id": 34971883,
+    "founder_names": [
+      "araghuvanshi"
+    ],
+    "tags": [
+      "AI",
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Confident AI",
+    "batch": "W25",
+    "one_liner": "Open-source evaluation framework for LLM apps",
+    "hn_url": "https://news.ycombinator.com/item?id=43116633",
+    "hn_points": 117,
+    "hn_comments": 27,
+    "launched_at": "2025-02-20T16:23:56Z",
+    "story_id": 43116633,
+    "founder_names": [
+      "jeffreyip"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Vital",
+    "batch": "W20",
+    "one_liner": "API for wearables and labs",
+    "hn_url": "https://news.ycombinator.com/item?id=32179530",
+    "hn_points": 114,
+    "hn_comments": 28,
+    "launched_at": "2022-07-21T14:04:07Z",
+    "story_id": 32179530,
+    "founder_names": [
+      "maith1"
+    ],
+    "tags": [
+      "API"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Gold Fig",
+    "batch": "S19",
+    "one_liner": "Version Control for Settings Pages",
+    "hn_url": "https://news.ycombinator.com/item?id=20636546",
+    "hn_points": 127,
+    "hn_comments": 19,
+    "launched_at": "2019-08-07T16:58:59Z",
+    "story_id": 20636546,
+    "founder_names": [
+      "vikrum"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Bucket Robotics",
+    "batch": "S24",
+    "one_liner": "Defect detection for molded and cast parts",
+    "hn_url": "https://news.ycombinator.com/item?id=41367750",
+    "hn_points": 111,
+    "hn_comments": 26,
+    "launched_at": "2024-08-27T14:12:45Z",
+    "story_id": 41367750,
+    "founder_names": [
+      "lasermatts"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Credal.ai",
+    "batch": "W23",
+    "one_liner": "Data Safety for Enterprise AI",
+    "hn_url": "https://news.ycombinator.com/item?id=36326525",
+    "hn_points": 114,
+    "hn_comments": 24,
+    "launched_at": "2023-06-14T14:26:55Z",
+    "story_id": 36326525,
+    "founder_names": [
+      "r_thambapillai"
+    ],
+    "tags": [
+      "AI",
+      "enterprise",
+      "data"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Curvenote",
+    "batch": "W21",
+    "one_liner": "Collaborative writing tools for science",
+    "hn_url": "https://news.ycombinator.com/item?id=27265380",
+    "hn_points": 108,
+    "hn_comments": 26,
+    "launched_at": "2021-05-24T15:20:10Z",
+    "story_id": 27265380,
+    "founder_names": [
+      "rowanc1"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "DeepSource",
+    "batch": "W20",
+    "one_liner": "Find and fix issues during code reviews",
+    "hn_url": "https://news.ycombinator.com/item?id=22547183",
+    "hn_points": 105,
+    "hn_comments": 27,
+    "launched_at": "2020-03-11T16:38:02Z",
+    "story_id": 22547183,
+    "founder_names": [
+      "dolftax"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "ShareWith",
+    "batch": "W21",
+    "one_liner": "Easily share internal websites securely",
+    "hn_url": "https://news.ycombinator.com/item?id=25457085",
+    "hn_points": 112,
+    "hn_comments": 22,
+    "launched_at": "2020-12-17T16:31:13Z",
+    "story_id": 25457085,
+    "founder_names": [
+      "jakemoshenko"
+    ],
+    "tags": [],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Evidently AI",
+    "batch": "S21",
+    "one_liner": "Track and Debug ML Models in Production",
+    "hn_url": "https://news.ycombinator.com/item?id=27760627",
+    "hn_points": 111,
+    "hn_comments": 17,
+    "launched_at": "2021-07-07T13:02:26Z",
+    "story_id": 27760627,
+    "founder_names": [
+      "elenasamuylova"
+    ],
+    "tags": [
+      "ML"
+    ],
+    "github_url": null,
+    "website_url": null
+  },
+  {
+    "name": "Relari",
+    "batch": "W24",
+    "one_liner": "Identify the root cause of problems in LLM apps",
+    "hn_url": "https://news.ycombinator.com/item?id=39641105",
+    "hn_points": 106,
+    "hn_comments": 15,
+    "launched_at": "2024-03-08T14:00:09Z",
+    "story_id": 39641105,
+    "founder_names": [
+      "antonap"
+    ],
+    "tags": [
+      "LLM"
+    ],
+    "github_url": null,
+    "website_url": null
+  }
+]

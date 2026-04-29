@@ -1,0 +1,206 @@
+[
+  {
+    "company_name": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "one_liner": "",
+    "website_url": null,
+    "round_stage": "seed",
+    "round_size": "$1B",
+    "round_size_usd": 1000.0,
+    "investors": [],
+    "source": "hn_funding",
+    "hn_url": "https://news.ycombinator.com/item?id=47321533",
+    "hn_points": 418,
+    "hn_comments": 2,
+    "announced_at": "2026-03-10T10:50:30Z",
+    "story_id": 47321533,
+    "founder_hn_handle": "ottomengis",
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "Dash0 raises $110M Series B at $1B valuation",
+    "one_liner": "",
+    "website_url": null,
+    "round_stage": "series_b",
+    "round_size": "$110M",
+    "round_size_usd": 110.0,
+    "investors": [],
+    "source": "hn_funding",
+    "hn_url": "https://news.ycombinator.com/item?id=47487240",
+    "hn_points": 12,
+    "hn_comments": 0,
+    "announced_at": "2026-03-23T09:49:56Z",
+    "story_id": 47487240,
+    "founder_hn_handle": "fred_",
+    "tags": [
+      "AI"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "RunAnywhere",
+    "one_liner": "Faster AI Inference on Apple Silicon",
+    "website_url": null,
+    "round_stage": "seed",
+    "round_size": null,
+    "round_size_usd": null,
+    "investors": [],
+    "source": "launch_hn",
+    "hn_url": "https://news.ycombinator.com/item?id=47326101",
+    "hn_points": 240,
+    "hn_comments": 153,
+    "announced_at": "2026-03-10T17:14:52Z",
+    "story_id": 47326101,
+    "founder_hn_handle": "sanchitmonga22",
+    "tags": [
+      "AI",
+      "LLM",
+      "ML",
+      "API",
+      "RAG",
+      "infrastructure"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "AgentMail",
+    "one_liner": "An API that gives agents their own email inboxes",
+    "website_url": null,
+    "round_stage": "seed",
+    "round_size": null,
+    "round_size_usd": null,
+    "investors": [
+      "attachments"
+    ],
+    "source": "launch_hn",
+    "hn_url": "https://news.ycombinator.com/item?id=46812608",
+    "hn_points": 169,
+    "hn_comments": 169,
+    "announced_at": "2026-01-29T16:42:33Z",
+    "story_id": 46812608,
+    "founder_hn_handle": "Haakam21",
+    "tags": [
+      "AI",
+      "API",
+      "agent",
+      "enterprise"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "DenchClaw",
+    "one_liner": "Local CRM on Top of OpenClaw",
+    "website_url": null,
+    "round_stage": "unknown",
+    "round_size": null,
+    "round_size_usd": null,
+    "investors": [
+      "my hubspot\u201d"
+    ],
+    "source": "show_hn",
+    "hn_url": "https://news.ycombinator.com/item?id=47309953",
+    "hn_points": 147,
+    "hn_comments": 124,
+    "announced_at": "2026-03-09T14:55:42Z",
+    "story_id": 47309953,
+    "founder_hn_handle": "kumar_abhirup",
+    "tags": [
+      "AI",
+      "agent",
+      "open source",
+      "enterprise"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "Pickle 1 AR Glasses (YC W25) May Be Fraudulent",
+    "one_liner": "",
+    "website_url": null,
+    "round_stage": "seed",
+    "round_size": null,
+    "round_size_usd": null,
+    "investors": [],
+    "source": "hn_funding",
+    "hn_url": "https://news.ycombinator.com/item?id=46483429",
+    "hn_points": 110,
+    "hn_comments": 32,
+    "announced_at": "2026-01-04T00:31:15Z",
+    "story_id": 46483429,
+    "founder_hn_handle": "tragiclos",
+    "tags": [],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "Distr 2.0",
+    "one_liner": "A year of learning how to ship to customer environments",
+    "website_url": null,
+    "round_stage": "series_d",
+    "round_size": null,
+    "round_size_usd": null,
+    "investors": [
+      "a single Docker image",
+      "a single platform"
+    ],
+    "source": "show_hn",
+    "hn_url": "https://news.ycombinator.com/item?id=46958742",
+    "hn_points": 101,
+    "hn_comments": 29,
+    "announced_at": "2026-02-10T12:19:23Z",
+    "story_id": 46958742,
+    "founder_hn_handle": "louis_w_gk",
+    "tags": [
+      "AI",
+      "API",
+      "fintech",
+      "agent",
+      "open source",
+      "infrastructure",
+      "security"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  },
+  {
+    "company_name": "BrowserOS",
+    "one_liner": "\"Claude Cowork\" in the browser",
+    "website_url": null,
+    "round_stage": "seed",
+    "round_size": null,
+    "round_size_usd": null,
+    "investors": [
+      "big labs",
+      "scratch"
+    ],
+    "source": "show_hn",
+    "hn_url": "https://news.ycombinator.com/item?id=46721474",
+    "hn_points": 88,
+    "hn_comments": 35,
+    "announced_at": "2026-01-22T16:30:58Z",
+    "story_id": 46721474,
+    "founder_hn_handle": "felarof",
+    "tags": [
+      "AI",
+      "LLM",
+      "ML",
+      "agent"
+    ],
+    "github_url": null,
+    "github_stars": null,
+    "github_repo": null
+  }
+]
