@@ -599,9 +599,10 @@ def build_graph() -> StateGraph:
     g.add_edge("skill_match_node",    "ner_node")
     g.add_edge("ner_node",            "startup_news_node")
     g.add_edge("ner_node",            "startup_github_node")
-    g.add_edge("startup_news_node",   "composer_node")
-    g.add_edge("startup_github_node", "composer_node")
-    g.add_edge("composer_node",       END)
+    g.add_edge("startup_news_node",   "skill_match_node")
+    g.add_edge("startup_github_node", "skill_match_node")
+    g.add_edge("skill_match_node",      "composer_node")
+    g.add_edge("composer_node",      END)
 
     return g.compile()
 
