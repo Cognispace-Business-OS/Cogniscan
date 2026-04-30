@@ -44,7 +44,7 @@ from github_trending import fetch_trending, format_repo
 from utility import extract_startup_names as _extract_startup_names
 from resume_extractor import resume_extractor
 from agent_schema import NEWS_OUTPUT_SCHEMA, GITHUB_OUTPUT_SCHEMA, NewsOutputArgs, GithubOutputArgs
-
+from relevance_engine import relevance_engine
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -161,7 +161,7 @@ news_agent = create_react_agent(
         "   - startup_yc_news         → YC funding news (stage_filter='all', min_round_usd=0)\n"
         "2. Deduplicate articles by title.\n"
         "3. Call `return_news_data` with ALL collected articles as your FINAL step.\n"
-        "Never respond with plain text."
+        "After calling `return_news_data`, you MUST output 'DONE' as plain text to finish."
     ),
 )
 
@@ -172,7 +172,7 @@ github_agent = create_react_agent(
         "You are a GitHub trends fetcher. "
         "Call github_trending_tool to fetch repositories, "
         "then call `return_github_data` with the structured results as your FINAL step. "
-        "Never respond with plain text."
+        "After calling `return_github_data`, you MUST output 'DONE' as plain text to finish."
     ),
 )
 
@@ -244,25 +244,45 @@ def score_and_sort(
     source_type: str,
 ) -> list[dict]:
     """
-    Embed skills string + all items, compute cosine similarity,
-    attach relevance_score to each item, and return all sorted
-    highest-first. No filtering — caller slices what it needs.
+    Score and rank items using the advanced relevance engine.
     """
     if not items or not skills:
         return items
 
-    skill_string = build_skill_string(skills)
-    item_strings = [build_item_string(i, source_type) for i in items]
-    all_vecs     = embed([skill_string] + item_strings)
-    skill_vec    = all_vecs[0:1]
-    item_vecs    = all_vecs[1:]
-    scores       = cosine_similarity(skill_vec, item_vecs)[0]
+    engine_items = []
+    for item in items:
+        if source_type == "news":
+            content = " ".join(filter(None, [
+                item.get("title", ""),
+                item.get("summary", ""),
+                str(item.get("source", "")),
+                item.get("funding_stage", ""),
+            ]))
+            engine_items.append({"type": "news", "content": content, "_original": item})
+        else:
+            url = item.get("url") or item.get("link")
+            api_url = ""
+            if url and "github.com/" in url:
+                parts = url.split("github.com/")[-1].strip("/").split("/")
+                if len(parts) >= 2:
+                    api_url = f"https://api.github.com/repos/{parts[0]}/{parts[1]}"
+            if not api_url and item.get("name") and "/" in item.get("name", ""):
+                api_url = f"https://api.github.com/repos/{item.get('name')}"
+            
+            engine_items.append({"type": "github", "url": api_url, "_original": item})
 
-    scored = [
-        {**item, "relevance_score": round(float(score), 4)}
-        for item, score in zip(items, scores)
-    ]
-    scored.sort(key=lambda x: x["relevance_score"], reverse=True)
+    scored_engine_items = relevance_engine(skills, engine_items)
+    
+    scored = []
+    for ei in scored_engine_items:
+        original = ei.pop("_original")
+        ei.pop("type", None)
+        ei.pop("content", None)
+        ei.pop("url", None)
+        relevance_score = ei.pop("final_score", 0.0)
+        ei["relevance_score"] = relevance_score
+        scored.append({**original, **ei})
+        
     return scored
 
 
@@ -294,7 +314,7 @@ def news_node(state: AgentState) -> dict:
                 content=f"Invalid response: {e}. You MUST call `return_news_data`. Try again."
             ))
     logging.error(f"  news_node failed: {last_error}")
-    return {"news_list": []}
+    return {}
 
 
 def github_node(state: AgentState) -> dict:
@@ -315,7 +335,7 @@ def github_node(state: AgentState) -> dict:
                 content=f"Invalid response: {e}. You MUST call `return_github_data`. Try again."
             ))
     logging.error(f"  github_node failed: {last_error}")
-    return {"github_repos": []}
+    return {}
 
 
 def skill_match_node(state: AgentState) -> dict:
@@ -360,18 +380,19 @@ def startup_news_node(state: AgentState) -> dict:
     logging.info("▶ startup_news_node")
     startup_names = state.get("startup_names", [])
     if not startup_names:
-        return {"news_list": []}
+        return {}
 
     query      = " OR ".join(startup_names[:5])
     messages   = [HumanMessage(content=f"Fetch recent news about these startups: {query}.")]
     last_error = None
+    existing_news = state.get("news_list", [])
     for attempt in range(1, 4):
         try:
             result   = news_agent.invoke({"messages": messages})
             parsed   = extract_news_output(result)
             articles = parsed.get("articles", [])
             logging.info(f"  ✓ Startup articles fetched: {len(articles)}")
-            return {"news_list": articles}
+            return {"news_list": existing_news + articles}
         except (ValueError, KeyError) as e:
             last_error = e
             logging.warning(f"  Attempt {attempt}/3 failed: {e}")
@@ -379,16 +400,17 @@ def startup_news_node(state: AgentState) -> dict:
                 content=f"Invalid response: {e}. Call `return_news_data`. Try again."
             ))
     logging.error(f"  startup_news_node failed: {last_error}")
-    return {"news_list": []}
+    return {}
 
 
 def startup_github_node(state: AgentState) -> dict:
     logging.info("▶ startup_github_node")
     startup_names = state.get("startup_names", [])
     if not startup_names:
-        return {"github_repos": []}
+        return {}
 
     all_repos = []
+    existing_repos = state.get("github_repos", [])
     for name in startup_names[:3]:
         messages   = [HumanMessage(content=f"Fetch trending GitHub repositories related to {name}.")]
         last_error = None
@@ -409,7 +431,7 @@ def startup_github_node(state: AgentState) -> dict:
             logging.error(f"  startup_github_node failed for '{name}': {last_error}")
 
     logging.info(f"  ✓ Startup repos fetched: {len(all_repos)}")
-    return {"github_repos": all_repos}
+    return {"github_repos": existing_repos + all_repos}
 
 
 def composer_node(state: AgentState) -> dict:
@@ -585,24 +607,25 @@ def build_graph() -> StateGraph:
     g.add_node("resume_node",         resume_node)
     g.add_node("news_node",           news_node)
     g.add_node("github_node",         github_node)
-    g.add_node("skill_match_node",    skill_match_node)
+    g.add_node("skill_match_node_1",  skill_match_node)
     g.add_node("ner_node",            ner_node)
     g.add_node("startup_news_node",   startup_news_node)
     g.add_node("startup_github_node", startup_github_node)
+    g.add_node("skill_match_node_2",  skill_match_node)
     g.add_node("composer_node",       composer_node)
 
     g.set_entry_point("resume_node")
     g.add_edge("resume_node",         "news_node")
     g.add_edge("resume_node",         "github_node")
-    g.add_edge("news_node",           "skill_match_node")
-    g.add_edge("github_node",         "skill_match_node")
-    g.add_edge("skill_match_node",    "ner_node")
+    g.add_edge("news_node",           "skill_match_node_1")
+    g.add_edge("github_node",         "skill_match_node_1")
+    g.add_edge("skill_match_node_1",  "ner_node")
     g.add_edge("ner_node",            "startup_news_node")
     g.add_edge("ner_node",            "startup_github_node")
-    g.add_edge("startup_news_node",   "skill_match_node")
-    g.add_edge("startup_github_node", "skill_match_node")
-    g.add_edge("skill_match_node",      "composer_node")
-    g.add_edge("composer_node",      END)
+    g.add_edge("startup_news_node",   "skill_match_node_2")
+    g.add_edge("startup_github_node", "skill_match_node_2")
+    g.add_edge("skill_match_node_2",  "composer_node")
+    g.add_edge("composer_node",       END)
 
     return g.compile()
 
